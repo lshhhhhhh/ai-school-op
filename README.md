@@ -6,6 +6,16 @@
 
 这个仓库公开的是**做法**：分镜计划、每个镜头最终通过的提示词、18 位 AI 娘的人设图和生成提示词、完整演员表，以及整条流水线的代码和 ComfyUI 工作流。**不包含**任何原作画面、生成视频或音乐。
 
+## 演员表
+
+| <img src="cast/designs/gpt.png" width="150"> | <img src="cast/designs/deepseek.png" width="150"> | <img src="cast/designs/gemini.png" width="150"> | <img src="cast/designs/claude.png" width="150"> |
+|:---:|:---:|:---:|:---:|
+| 温水和彦 → **GPT** | 八奈见杏菜 → **DeepSeek** | 烧盐柠檬 → **Gemini** | 小鞠知花 → **Claude** |
+
+其余 14 位：温水佳树 → MiniMax、姬宫华恋 → Kimi、袴田草介 → Grok、朝云千早 → Qwen、绫野光希 → Mistral、月之木古都 → Perplexity、玉木慎太郎 → GLM、甘夏古奈美 → 豆包、小拔小夜 → Copilot、志喜屋梦子 → Llama、马剃天爱星 → 文心、放虎原云雀 → 混元、权藤アサミ → Cohere，以及楼梯上看书的学生会成员 → 星火。
+
+**👉 [完整演员表](cast/README.md)**：18 位 AI 娘的人设图和外观说明、每位的出场镜头、逐镜身份判断，以及片头 staff 署名对照（原 staff → AI 圈人物和所属公司）。
+
 ## 流程
 
 | 步骤 | 做什么 | 文档 |
@@ -24,7 +34,7 @@
 ## 目录
 
 ```
-cast/            演员表 + 18 位 AI 娘人设图和生图提示词
+cast/            演员表（cast/README.md）+ 18 位 AI 娘人设图和生图提示词
 prompts/         每个验收单元最终通过的 H3 提示词；index.csv 列出版本、种子、参考图顺序
 workflows/       ComfyUI 工作流模板：H3 视频编辑（Ref2VA）、H3 首帧图生视频、SeedVR2 超分
 data/            分镜计划 full_plan.json、署名决定 credit_decisions.json
