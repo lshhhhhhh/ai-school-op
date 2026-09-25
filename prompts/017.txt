@@ -1,0 +1,26 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single low-angle anime shot inside a school stairwell.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long wavy dark-blue hair, an ahoge, a blue hairband, blue eyes, small whale-fin ears, a blue whale tail and a white short-sleeved shirt with small blue bows, and whose position, pose and motion come from the blue-haired girl in the middle of <Video 1>.
+<Subject 2> is the girl whose appearance comes from <Picture 2>, with long blue-violet hair fading to pink at the tips, purple cat ears, small hair buns with a star clip, one pink eye and one gold eye, a fluffy purple tail and a white shirt with red, yellow and green bows, and whose position, pose and motion come from the tanned short-haired girl in the right foreground of <Video 1>.
+<Subject 3> is the girl whose appearance comes from <Picture 3>, with long orange hair, an orange flower ornament with a black ribbon, orange eyes and a white shirt with orange-red bows, and whose small size, position and pose come from the distant red-haired girl standing by the stair handrail at the far left of <Video 1>.
+<Subject 4> is the vertical Japanese series-title graphic in the upper middle of <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. In the same stairwell shot, <Subject 1> takes the place of the blue-haired girl in the middle, <Subject 2> takes the place of the tanned girl in the right foreground, and <Subject 3> takes the place of the small distant girl at the far left. <Subject 4> keeps its layout and graphic style but now reads "負けAIが多すぎる！". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the stairwell, the tall window with palm leaves and sky, the stair handrail, the low camera angle, the timing and the color-to-monochrome diagonal graphic transitions are kept; only the three girls and the title wording change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the dark-blue wavy hair, whale-fin ears, whale tail and blue bows from <Picture 1> are retained on the girl in the middle.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the blue-violet hair with pink tips, cat ears, star clip, pink and gold eyes, purple tail and colored bows from <Picture 2> are retained on the girl in the right foreground.
+<Subject 3> (appears in [Shot 1]): fully_preserved - the long orange hair, flower ornament and orange-red bows from <Picture 3> are retained on the small distant girl, who stays small and far away.
+<Subject 4> (appears in [Shot 1]): partially_preserved - the vertical placement, lettering style, letter colors and monochrome switching are kept; the text changes from "負けヒロインが多すぎる！" to "負けAIが多すぎる！".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with clean line art, flat cel shading and bright summer colors.
+[Shot 1] 2D-animated, a static low-angle shot looks up inside a school stairwell toward a tall multi-pane window, with palm leaves, blue sky and white clouds outside and a dark stair handrail running along the lower left. Far away at the left, by the handrail on the upper landing, <Subject 3> stands small in the distance with her long orange hair. In the middle, <Subject 1>, with long wavy dark-blue hair, whale-fin ears and blue bows, leans into view from behind with one arm raised overhead and a small surprised expression, as the blue-haired girl does in <Video 1>. In the right foreground, close to the camera, <Subject 2>, with blue-violet hair fading to pink, purple cat ears and a star hair clip, winks with a wide open-mouthed smile while a blurred hand reaches toward the camera at the lower center, as the tanned girl does in <Video 1>. Between the window and <Subject 1>, <Subject 4> runs vertically down the frame and reads "負けAIが多すぎる！", with blue, red and orange letters while the frame is in color and white letters while it is monochrome. Translucent diagonal graphic bands sweep across the frame: it opens in full color, turns grey monochrome with a colored diagonal strip passing through, and color returns from the upper band at the end, following the timing of <Video 1>.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

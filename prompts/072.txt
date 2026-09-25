@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed anime shot of a girl seen from behind, sitting hunched with her knees drawn up and looking out over an empty pastel-colored beach.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long bright orange hair, an orange flower hair ornament with a black ribbon, orange-amber eyes, a white short-sleeved school shirt with orange-red bows and a grey-blue pleated skirt with a white hem stripe, and whose position, pose and motion come from the short-haired girl in a hoodie sitting in the left foreground with her back to the camera in <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the girl in the hoodie who sits hugging her knees in the left foreground, seen from behind. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the black letterbox bars, the empty pastel beach, the strip of sea, the lavender mountains, the wind turbines, the dark purple ledge along the bottom, the floating red "恋", the pink-and-lavender color grade, the static camera and the timing are kept; only the girl changes.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the long orange hair, flower ornament with a black ribbon, orange-red bows and school uniform from <Picture 1> are retained on the seated girl seen from behind.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static wide shot framed with black letterbox bars at the top and bottom, looking out over a dreamy, empty beach painted in soft pink, lavender and pale blue: pale pink sand sweeping across the frame, a thin strip of sea on the left, lavender mountains along the horizon, small white wind turbines at the upper right, lavender clouds in a pale sky, and a dark purple ledge running along the bottom edge. In the left foreground, <Subject 1> sits hugging her knees with her back to the camera and her head slightly bowed, her face turned away toward the sea and her hair stirring in the breeze, cut off by the bottom of the frame and as large as the girl in <Video 1>. On the right, a small red hand-drawn "恋" with a thin white outline floats above the sand, slowly drifting to the right and turning as it goes, as in <Video 1>. The beach is empty, and <Subject 1> is the only person in the frame. The whole frame, including <Subject 1>, keeps the soft pastel pink-and-lavender color grade of <Video 1>, with her orange hair gently softened by the lavender light.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

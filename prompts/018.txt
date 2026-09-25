@@ -1,0 +1,28 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single anime shot of four students standing in a row behind a railing in an outdoor school service yard.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long blue-violet hair fading to pink at the tips, purple cat ears, small hair buns with a star clip, one pink eye and one gold eye, a fluffy purple tail and a white short-sleeved shirt with red, yellow and green bows, and whose position, pose and motion come from the tanned short-haired girl at the far left of <Video 1>.
+<Subject 2> is the girl whose appearance comes from <Picture 2>, with long bright orange hair, an orange flower hair ornament with a black ribbon, orange-amber eyes and a white short-sleeved shirt with orange-red bows, and whose position, pose and motion come from the small red-haired girl second from the left in <Video 1>.
+<Subject 3> is the girl whose appearance comes from <Picture 3>, with long wavy dark-blue hair, an ahoge, a blue hairband, blue eyes, small whale-fin ears, a blue whale tail and a white short-sleeved shirt with small blue bows, and whose position, pose and motion come from the blue-haired girl third from the left in <Video 1>.
+<Subject 4> is the girl whose appearance comes from <Picture 4>, with wavy silver-white medium-length hair, a green hair clip, grey-green eyes, a white short-sleeved shirt with green bows and a grey-blue pleated skirt with a white hem stripe, and whose position, pose and motion come from the dark-haired boy with a green tie at the far right of <Video 1>.
+<Subject 5> is the vertical Japanese series-title graphic in the upper middle of <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. The four students behind the railing are, from left to right, <Subject 1>, <Subject 2>, <Subject 3> and <Subject 4>, each taking the place of the original student at that position. <Subject 5> keeps its layout and graphic style but now reads "負けAIが多すぎる！". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the school building, pipes, railing, green dumpsters, trees, framing, timing and the diagonal color-to-monochrome sweeps are kept; only the four students and the title wording change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the blue-violet hair with pink tips, cat ears, star clip, pink and gold eyes, purple tail and colored bows from <Picture 1> are retained on the far-left girl.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the long orange hair, flower ornament with a black ribbon and orange-red bows from <Picture 2> are retained on the second girl from the left.
+<Subject 3> (appears in [Shot 1]): fully_preserved - the dark-blue wavy hair, whale-fin ears, whale tail and blue bows from <Picture 3> are retained on the third girl from the left.
+<Subject 4> (appears in [Shot 1]): fully_preserved - the silver-white hair, green hair clip, grey-green eyes, green bows and pleated skirt from <Picture 4> are retained on the far-right girl, who is a girl in the girls' uniform.
+<Subject 5> (appears in [Shot 1]): partially_preserved - the vertical placement, lettering style, letter colors and monochrome switching are kept; the text changes from "負けヒロインが多すぎる！" to "負けAIが多すぎる！".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static medium-wide shot looks across a grey concrete railing into an outdoor school service yard, with a pale green school building and pipes on the left, green dumpsters and leafy trees on the right, and a green metal frame overhead. Four students stand in a row behind the railing, each as small in the frame as in <Video 1>. At the far left, <Subject 1> faces right with both arms stretched out to the sides and a wide open-mouthed smile. Second from the left, <Subject 2> stands with her back half turned to the camera, facing <Subject 1>. Third from the left, <Subject 3> raises one index finger upward and smiles as she talks. At the far right, <Subject 4> stands calmly facing the camera. In the upper middle, <Subject 5> runs vertically down the frame and reads "負けAIが多すぎる！", with blue, red and orange letters while the image is in color and white letters while it is monochrome. A diagonal monochrome band sweeps across the frame from left to right: everything inside the band turns grey, including the students' hair, skin and uniforms, while only the area outside the band stays in color; color then returns from the right side, following the timing of <Video 1>.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

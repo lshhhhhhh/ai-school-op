@@ -1,0 +1,31 @@
+subject_definitions:
+<Video 1> is the COMPLETE source anime shot, governing full-frame composition, source identities, every pose, performance, camera motion, props, transitions and text layout.
+<Picture 1> defines ONLY DEEPSEEK appearance: long dark indigo-blue hair, blue eyes, loop ahoge, small whale fins and whale tail, blue bows. Replace 八奈見杏菜 / Anna Yanami, identified as the blue/teal-haired girl with a short voluminous bob and yellow uniform bows, with this girl.
+<Picture 2> defines ONLY GEMINI appearance: long blue-violet hair with pink tips, cat ears and fluffy purple tail, multicolored Google bow accents. Replace 焼塩檸檬 / Lemon Yakishio, identified as the athletic tan girl with short brown hair and sporty poses, with this girl.
+<Picture 3> defines ONLY CLAUDE appearance: long copper-orange hair, amber eyes, small flower/starburst hairclip, orange bows. Replace 小鞠知花 / Chika Komari, identified as the shy petite red/auburn bob-haired girl, with this girl.
+Reference pictures are identity and school-uniform references ONLY, never pose, camera, expression, framing or background references. When several identities are listed, replace each ONLY if that source identity is actually visible; do not add absent characters. Generic background extras stay unchanged.
+
+summary:
+[video editing + reference generation] Generate ONE coherent complete anime shot. Perform every listed identity, clothing and text change together throughout the full frame. Match the original hand-drawn television anime, clean outlines, restrained cel shadows and color palette. No separate character patch or text-paste stage will follow.
+
+detailed_description:
+[Shot 1] Close-up of running legs and shoes. Use school uniform skirt, socks and brown loafers matching the appropriate runner. Keep feet planted at each impact and retain the source running rhythm. Do not add faces into this foot-only composition.
+Match all actions and camera movements of Video 1 from beginning to end. This complete source shot has been uniformly stretched to the model frame grid; its full output will be uniformly returned to the original shot duration. Never stop the action early or add a new shot. Preserve intentional anime holds, while reproducing all actual source head, neck, shoulder, torso, hand and leg motion. Source gaze and head orientation take precedence over the frontal reference sheets. Allow profile, back of head, foreshortening, occlusion and partial framing; no fixed frontal face. Hair, ears, tails and uniform respond to the source movement. Do not enlarge distant people.
+Every replacement wears the unified school outfit from her own picture: white short-sleeve collared shirt, small colored stacked bows, grey-blue pleated skirt with one white hem stripe, dark socks and brown loafers. Change original male characters into their assigned AI girls completely. Keep each assigned girl's own hair, face and compact badge separate; no identity blending or swapped colors.
+Retain original background layout, perspective, linework, lighting, props, source motion blur, split panels and foreground occlusion. All scene regions share consistent texture and sharpness. No rectangular patch, background halo, pasted silhouette, doubled outline, freeze-frame portrait, new camera zoom, inset, white reference-sheet background or extra character.
+
+text_replacements:
+Keep incidental text and packaging unchanged. Do not introduce new names, labels or credits.
+
+retention_analysis:
+Listed cast: replace identity and outfit, preserve full source performance, screen size, screen position, interactions and source occlusion.
+Background extras and props: preserve. Product packaging, shop signs, drinks, food, umbrellas and incidental book prose stay as drawn unless specifically listed above.
+Composition, camera, animation timing, graphic layering and transitions: preserve across the entire shot.
+Text blocks listed above: replace content while retaining source graphic treatment. All other lettering remains as in Video 1.
+Produce the entire composition as one video; no cropped character, mask, compositing patch or separately replaced background.
+
+overall_soundscape:
+None. Original recorded soundtrack is restored after generation.
+
+non_diegetic_music:
+N/A

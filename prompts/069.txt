@@ -1,0 +1,24 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single very short letterboxed anime shot of three girls peeking out beside a pillar in a narrow shopping arcade and waving at the camera.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long bright orange hair, an orange flower hair ornament with a black ribbon, orange-amber eyes, a white short-sleeved school shirt with orange-red bows and a grey-blue pleated skirt with a white hem stripe, and whose position, pose and motion come from the red-haired girl in a pink hoodie standing in front on the left side of the pillar in <Video 1>.
+<Subject 2> is the girl whose appearance comes from <Picture 2>, with long wavy dark-blue hair, an ahoge, a blue hairband, blue eyes, small whale-fin ears, a blue whale tail, a white short-sleeved school shirt with small blue bows and a grey-blue pleated skirt with a white hem stripe, and whose position, pose and motion come from the blue-haired girl in a long lavender skirt on the right side of the pillar in <Video 1>.
+<Subject 3> is the girl whose appearance comes from <Picture 3>, with long blue-violet hair fading to pink at the tips, purple cat ears, small hair buns with a star clip, one pink eye and one gold eye, a fluffy purple tail and a white short-sleeved school shirt with red, yellow and green bows, and whose position, pose and motion come from the tanned short-brown-haired girl half hidden directly behind the red-haired girl in <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the red-haired girl in front, <Subject 3> takes the place of the tanned short-haired girl half hidden behind her, and <Subject 2> takes the place of the blue-haired girl on the other side of the pillar. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the black letterbox bars, the shopping arcade, the blue shopfronts, the pillar with yellow-and-black hazard stripes, the sunlit walkway with leaf shadows, the large blurred foreground wall on the right, the static camera and the timing are kept; only the three girls change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the long orange hair, flower ornament with a black ribbon, orange-red bows and school uniform from <Picture 1> are retained on the girl in front.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the dark-blue wavy hair, whale-fin ears, whale tail, blue bows and school uniform from <Picture 2> are retained on the girl on the right side of the pillar.
+<Subject 3> (appears in [Shot 1]): fully_preserved - the blue-violet hair with pink tips, cat ears, star clip, pink and gold eyes and colored bows from <Picture 3> are retained on the half-hidden girl behind <Subject 1>.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static wide shot framed with black letterbox bars at the top and bottom, looking down a narrow shopping arcade in soft blue shade: blue shopfronts and a pastel awning on the left, a sunlit pale walkway with dappled leaf shadows, and the whole right half of the frame covered by a large, out-of-focus foreground wall with leaf shadows. In the middle-left, the three girls peek out around a pillar with yellow-and-black hazard stripes, all small in the frame, as small as the girls in <Video 1>. On the left side of the pillar, <Subject 1> stands in front and leans out with one arm stretched out to the side and a shy smile. Directly behind her, <Subject 3> is half hidden, with only her head, shoulders and arms showing above and beside <Subject 1>; she waves one raised hand and stretches the other arm out, grinning. On the right side of the pillar, <Subject 2> waves one hand high above her head with a bright smile, as the three girls do in <Video 1>.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

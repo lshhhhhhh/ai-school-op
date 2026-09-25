@@ -1,0 +1,24 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single wide anime character-introduction shot of a green school rooftop area with a small girl near the center inside a white doodle outline, a large blue Japanese series title arching across the top, a compact English tagline below it and a white handwritten character name above the girl.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long wavy dark-blue hair, a loop-shaped ahoge, a slim blue hairband, small whale-fin ears, a dark-blue whale tail, blue eyes and a white short-sleeved school shirt with small blue bows and a grey-blue pleated skirt, and whose small size, position, pose and gestures come from the small girl with a short teal bob and yellow bows near the center of <Video 1>.
+<Subject 2> is the series-title graphic across the top of <Video 1>: a large arched line of blue Japanese letters with a compact line of English letters directly below it.
+<Subject 3> is the loose white handwritten character name floating above the girl in <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the small girl near the center from the first frame. <Subject 2> now reads "負けAIが多すぎる！" with the tagline "too many losing AIs", and <Subject 3> now reads "DeepSeekちゃん". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the rooftop, beams, windows, foliage, snack packages, doodles, the white outline around the girl, the camera and the timing are kept; only the girl, the title wording and the name change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the long wavy dark-blue hair, ahoge, hairband, whale-fin ears, whale tail and blue bows from <Picture 1> are retained, at the same small size and place as the original girl.
+<Subject 2> (appears in [Shot 1]): partially_preserved - the arched layout, blue lettering style and placement are kept; the title changes from "負けヒロインが多すぎる！" to "負けAIが多すぎる！" and the English line changes to "too many losing AIs".
+<Subject 3> (appears in [Shot 1]): partially_preserved - the loose white handwriting, position and motion are kept; the name changes from "八奈見杏菜" to "DeepSeekちゃん", with every stroke of the old name gone.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] From the very first frame, the small girl's short teal bob becomes <Subject 1>'s long wavy dark-blue hair with whale-fin ears and a whale tail, and her yellow bows become blue. 2D-animated, a continuous wide shot of a green school rooftop area with roof beams, windows, foliage and snack packages. Near the center, inside the white doodle outline, <Subject 1> stands small, at exactly the original girl's size, and makes the same gestures as the girl in <Video 1>, moving slowly and continuously. Across the top, <Subject 2> arches in large blue letters reading "負けAIが多すぎる！", with "too many losing AIs" in compact letters directly below it. Above the girl, <Subject 3> floats in loose white handwriting reading "DeepSeekちゃん". These are the only three pieces of lettering in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

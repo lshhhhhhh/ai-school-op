@@ -1,0 +1,33 @@
+subject_definitions:
+<Video 1> is the COMPLETE original anime shot, including the foreground sports-drink bottle, sunny park, trees, fence, ground, large yellow title on the right, white handwritten name and the small athletic girl. It defines the FULL FRAME, camera, perspective, scene layout and the entire animated performance.
+<Picture 1> is Gemini's appearance reference ONLY: long blue-violet hair with lavender-pink tips, cat ears, a long fluffy purple tail, small sparkle hair accessory, pale complexion, white short-sleeve school blouse with Google blue/red/yellow/green small bow accents, gray-blue pleated skirt, dark socks and brown loafers. Do not copy her still standing pose, front-facing gaze or white reference-sheet background.
+
+summary:
+[video editing + reference generation] Produce ONE complete coherent full-frame anime shot. Replace the original athletic girl with Gemini and update the specified name and title lettering in the same full-frame generation. Reproduce the original girl's stretch, deep crouch and rightward run, with an articulated head and neck that follow the torso. Retain the original small character screen size, wide composition and source camera motion. Every pixel of the final shot comes from this single full-frame video; there will be no pasted character patch or separately replaced background.
+
+detailed_description:
+[Shot 1] Follow the complete motion of Video 1 across its entire duration. The reference has been slowed evenly to make the full action legible, and the final video will be returned evenly to its original time scale.
+Beginning, approximately frames 0-17: perform the source arm-and-shoulder stretch. Her head tilts and turns with the neck and shoulders; hair and ears follow the head. Keep her exact source location and small size in the scene.
+Middle, approximately frames 18-45: bend all the way down into the source deep athletic crouch. The torso tips toward the ground; the chin and gaze point DOWN. Show the crown and side of her head when appropriate. The head is NOT a static front-facing portrait. Hair falls forward naturally and the tail counterbalances the body. Reach the full crouch in the reference.
+Ending, approximately frames 46-55: push off and RUN toward SCREEN RIGHT, matching the reference travel and steps. Lift her head into a clear RIGHT-FACING SIDE PROFILE with nose pointing right and only the nearer eye visible. Head, neck, shoulders and torso move together; arms pump, feet push against the ground, long hair and tail trail behind. Complete the rightward launch by the last frame. No gaze toward the viewer while running, no frozen head, no return to the standing reference pose.
+The motion video takes precedence over the still image's frontal face and posture. Identity is maintained through hair, ears, colors, uniform and tail even when the face turns away. Preserve intentional source animation holds without freezing the entire action.
+Use coherent hand-drawn anime outlines and cel shading across the ENTIRE scene, consistent line weight, color, texture and sharpness around the character and everywhere else. Trees, ground and fence continue naturally through the character region. No rectangular patch, duplicated contours, ghost silhouettes or locally sharpened region. No character enlargement, zoom, new camera move, added cut, inset or reference sheet.
+
+text_replacements:
+Replace the character name with exactly "Geminiちゃん", keeping its white handwritten style and animated placement.
+Replace the large yellow vertical Japanese title on the right with exactly "負けAIが多すぎる！". Use uppercase Latin A and I. Remove the old ヒロイン wording rather than overlaying both versions.
+Replace the small English tagline with exactly "too many losing AIs" in the same existing graphic area.
+Keep text outside the character's motion path as in the reference. Do not add new subtitles, labels or explanatory text.
+
+retention_analysis:
+Original athletic girl: identity and school uniform replaced by Gemini from the first frame; source performance, screen position and scale retained.
+Foreground blue sports-drink bottle and its ORIGINAL packaging/brand: preserved. Do not replace its branding with an AI brand.
+Park, trees, ground, fence, sky, clouds, doodles, composition, layering, letterbox and camera motion: retain the source drawing style and spatial continuity.
+Character name and Japanese/English title: replace only their content as specified while retaining source style, placement and movement.
+Produce the entire composition as one video, with no separate crop or compositing stage.
+
+overall_soundscape:
+None. Original audio is restored after generation.
+
+non_diegetic_music:
+N/A

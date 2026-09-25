@@ -1,0 +1,22 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single static wide anime shot down a colorful bookstore aisle with floating geometric shapes and a large vertical original-author credit, in which the dark-haired boy twice pops to a closer spot.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with wavy silver-white medium-length hair, a green hair clip, grey-green eyes, a white short-sleeved school shirt with green bows and a grey-blue pleated skirt with a white hem stripe, and whose position, pose and motion come from the dark-haired boy in the lime-green hoodie in <Video 1>.
+<Subject 2> is the vertical original-author credit in the upper middle of <Video 1>: the small label "原作" on the right, with a green "原" inside an orange circle and "作" below it; to its left, one tall big-name column of large dark-navy letters with white outlines and a few cyan, magenta and green accent strokes, running from the top of the frame nearly to the bottom; and below "作", two thin columns of small print.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the dark-haired boy in the lime-green hoodie at each of his three positions. In <Subject 2>, the label "原作" stays and the big name column now reads "Geoffrey Hinton". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the bookstore aisle, the shelves and book tables, the floating geometric shapes, the static camera with its two small jumps, the moments when the figure pops closer and the timing are kept; only the boy and the big credit name change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the silver-white hair, green hair clip, grey-green eyes, green bows and pleated skirt from <Picture 1> are retained, so she is a girl in the girls' uniform at every position.
+<Subject 2> (appears in [Shot 1]): partially_preserved - the label "原作" with its orange circle, the tall big-name column and its position, the dark-navy letters with white outlines and colored accent strokes, and the two thin columns of small print are kept; the big name changes from "雨森たきび" to "Geoffrey Hinton".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static wide shot looks down a bookstore aisle, with tall blue bookshelves on both sides, a book table at the lower left, book displays at the lower right, and flat geometric shapes floating over the frame: a large cyan triangle outline, yellow striped triangles, a yellow diamond, a dotted yellow triangle and small white circles. At first, <Subject 1> stands small in the middle of the aisle with one hand at her chin, looking toward the shelves, as small as the boy in <Video 1>. At 00:00.958 she appears closer, standing at the right-hand shelves in the middle distance and reaching for a book with both hands, and at 00:01.958 she appears large in the left foreground, reaching toward the books on the left, as the boy does in <Video 1>. In the upper middle, <Subject 2> shows the small label "原作" with "原" inside the orange circle, and to its left the big name column reads "Geoffrey Hinton" in large dark-navy letters with white outlines, set sideways, rotated 90 degrees clockwise so it reads from top to bottom and fills the whole tall column. The big column holds only "Geoffrey Hinton", and the two thin columns below "作" keep the same small print as in <Video 1>.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

@@ -1,0 +1,24 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single anime shot that starts on a close-up of a long-haired girl in glasses stretching and pulls back to a wide view of her and a short-haired boy under a wooden shelter, with a horizontal production credit at the top.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with a medium-length green bob with two slim braids, green eyes, rectangular glasses, a small triangular hair clip, a GLM badge, a white short-sleeved school shirt with green, black and white bows and a grey-blue pleated skirt with a white hem stripe, and whose position, pose and motion come from the short-haired boy in the grey cardigan pointing upward on the left of the pair in <Video 1>.
+<Subject 2> is the girl whose appearance comes from <Picture 2>, with long deep-teal hair in a low ponytail, teal eyes, rectangular glasses, a compass badge and a white short-sleeved school shirt with teal, grey and white bows, and whose position, pose and motion come from the tall long dark-haired girl in red glasses stretching both arms overhead on the right of the pair in <Video 1>, who fills the opening close-up.
+<Subject 3> is the horizontal production credit in the upper half of <Video 1>: the small label "制作統括" on the left, and to its right two stacked horizontal names in bold rounded blue letters with thick white outlines and small pink, green, orange and purple accent strokes.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 2> takes the place of the tall dark-haired girl in glasses on the right, including the opening close-up, and <Subject 1> takes the place of the short-haired boy on the left. In <Subject 3>, the label "制作統括" stays; the upper name now reads "唐杰" and the lower name now reads "Aravind Srinivas". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the wooden shelter with its beams, the pictogram sign with an arrow, the blue doorway and fences, the tree trunk on the right, the continuous pull-back from the close-up, the credit swing-in and the timing are kept; only the two people and the two credit names change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the green bob with slim braids, glasses, triangular clip, GLM badge, green, black and white bows and the pleated skirt from <Picture 1> are retained on the left girl, who is a girl in the girls' uniform.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the deep-teal low ponytail, glasses, teal eyes, compass badge and teal, grey and white bows from <Picture 2> are retained on the right girl, who keeps stretching with both arms overhead.
+<Subject 3> (appears in [Shot 1]): partially_preserved - the horizontal layout, the label "制作統括", the two stacked name lines, their positions, the bold rounded blue letters, white outlines, colored accent strokes and swing-in timing are kept; the upper name changes from "清水 暁" to "唐杰" and the lower name changes from "佐藤 成俊" to "Aravind Srinivas".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, the shot opens on a close-up of <Subject 2> smiling and talking with one arm raised overhead, and pulls back as <Subject 1>'s shoulder appears at the left edge, as the girl does in <Video 1>. At 00:00.417 the camera pulls back fast with motion blur, and the shot settles on a static wide view under a wooden shelter with green-grey beams, a pictogram sign with an arrow overhead, a blue doorway, fences, and a large tree trunk on the right. The pair stands right of center: <Subject 1> on the left, looking up and pointing upward with one finger, and <Subject 2> on the right, stretching with both arms raised overhead, as the boy and the girl do in <Video 1>. At 00:00.583 <Subject 3> swings in and then holds in the upper half of the frame: the small label "制作統括" on the left, and to its right the upper name "唐杰" above the lower name "Aravind Srinivas", both horizontal, in bold rounded blue letters with thick white outlines and small colored accent strokes. Apart from the pictogram sign, this credit is the only text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

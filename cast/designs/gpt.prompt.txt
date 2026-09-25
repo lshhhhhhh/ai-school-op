@@ -1,0 +1,16 @@
+Use case: stylized-concept
+Asset type: production character-design reference for a Japanese school anime opening, one full-body front character on a clean white background.
+
+Create an ORIGINAL human schoolgirl personification of GPT, designed to take the protagonist / reliable student-council role in our school anime cast. The user explicitly chose: SILVER-WHITE MEDIUM-LENGTH HAIR, calm reliable student-council temperament. This is a new original design, replacing a fantasy dragon concept.
+
+Input image 1 is ONLY our already approved school-uniform and drawing-style reference (the blue-haired DeepSeek girl). Match its clear TV-anime linework, cel shading, normal anime proportions, level of detail, full-body framing and uniform construction. Do NOT borrow her blue hair, facial identity, whale motif, fin ornaments, loop ahoge, tail, or blue palette.
+
+GPT's original identity: luminous natural silver-white hair reaching a little below the shoulders, smooth with a gently asymmetric side-parted fringe, one side neatly tucked behind a normal human ear; subtle cool-gray shadowing, no rainbow streaks. Gray-green / jade-green eyes, composed attentive gaze, a small warm confident smile. She feels capable, thoughtful and approachable, with quiet student-council poise; not arrogant, not icy or villainous. A small simple dark-emerald barrette keeps her side fringe tidy. Keep her recognizable from a distant anime shot through the silver hair silhouette and restrained green accents.
+
+Clothes: same school uniform structure as the reference: white short-sleeve button shirt, small pointed collar, gray-blue folded sleeve cuffs, THREE small vertically stacked front bows in deep forest green, jade green, and pale mint; gray-blue pleated skirt with a single thin white stripe near the lower hem; dark navy knee socks; brown loafers. Shirt worn neatly tucked in. One small neat green OpenAI six-loop knot emblem on the chest pocket, readable as a discreet embroidered badge rather than huge lettering. No additional words or labels. No blazer, sailor collar, maid costume, fantasy dress, armband, crown or jewelry clutter.
+
+Pose and composition: exactly one girl, entire body including both shoes fully visible, centered vertical portrait around 2:3, head comfortably clear of the top edge. Mostly frontal with a very slight natural three-quarter turn, upright relaxed shoulders, arms resting naturally beside her, calm confident posture; hands correctly drawn. Clean white background with only a very faint floor contact shadow. A practical neutral design reference, not an action scene and not multiple views.
+
+Style: compatible with the supplied school anime design, clean expressive 2D animation outlines and simple controlled cel-shadow shapes, warm human skin, natural normal anime proportions. Enough simplicity for reliable frame-to-frame animation, not glossy 3D, hyper-detailed game splash art or photorealism.
+
+Essential constraints: fully human silhouette and normal human ears. NO dragon horns, wings, tail, scales, pointed ears, animal ears, halo, fins, mechanical body or floating interface. No extra person, no scenery, no props, no watermark, no character-name captions. Preserve the user's silver-white medium-length hair and calm reliable student-council direction.

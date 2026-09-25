@@ -1,0 +1,24 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single static wide anime shot of a green-toned school library with a large pink title and tagline across the lower part and a white handwritten name with doodled stars above a tiny girl in the distance.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long bright orange hair, an orange flower hair ornament with a black ribbon, orange-amber eyes and a white short-sleeved school shirt with orange-red bows, and whose small size, position, pose and motion come from the tiny red-brown-haired girl standing behind the far edge of the central table in front of the window in <Video 1>.
+<Subject 2> is the white handwritten name with doodled stars above the girl in <Video 1>.
+<Subject 3> is the large pink outlined Japanese title and the small pink English tagline beneath it across the lower part of <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the tiny red-brown-haired girl from the first frame; she is the only person in the shot and stays visible, small in the distance, the whole time. <Subject 2> now reads "Claudeちゃん", and <Subject 3> now reads "負けAIが多すぎる！" with the tagline "too many losing AIs". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the library, bookshelves, window, table and books, the doodled stars and strokes, the static camera and the timing are kept; only the girl, the name and the title wording change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the long orange hair, flower ornament with a black ribbon and orange-red bows from <Picture 1> are retained on the tiny girl, who stays as small and distant as the original girl.
+<Subject 2> (appears in [Shot 1]): partially_preserved - the white hand-drawn lettering, placement, doodled stars and pop-in animation are kept; the name changes from "小鞠知花" to "Claudeちゃん".
+<Subject 3> (appears in [Shot 1]): partially_preserved - the pink outlined lettering, size, placement and layering are kept; the title changes from "負けヒロインが多すぎる！" to "負けAIが多すぎる！" and the tagline changes to "too many losing AIs".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] From the very first frame, the tiny girl's short red-brown bob becomes <Subject 1>'s long bright orange hair with an orange flower ornament, and her bows become orange-red. 2D-animated, a static wide shot of a green-toned school library with tall bookshelves, a large window and a wooden table covered with books in the foreground. Small in the distance behind the far edge of the table, in front of the window, <Subject 1> fiddles with her hair beside her cheek and then turns away so her back faces the camera, as the girl does in <Video 1>. Above her, <Subject 2> reads "Claudeちゃん" in white hand-drawn letters while white doodled stars and strokes pop in around it. Across the lower part of the frame, <Subject 3> reads "負けAIが多すぎる！" in large pink outlined letters, with "too many losing AIs" in small pink letters beneath it.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

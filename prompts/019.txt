@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single low-angle anime shot looking up at a triangular road sign on a pole under a building with blue corrugated metal walls, with the series title over it.
+<Subject 1> is the vertical Japanese series-title graphic in the upper middle of <Video 1>: two staggered vertical columns of rounded letters with thin white outlines, the right column ending in a small "が" inside an orange circle and the left column starting lower, with blue, navy and orange letters in the colored areas and white letters in the grey areas.
+
+summary:
+[video editing] The target video is an edited version of <Video 1>. <Subject 1> keeps its two-column layout and graphic style but now reads "負けAIが多すぎる！", with "負けAI" and the small circled "が" in the right column and "多すぎる！" in the left column. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the triangular road sign, its pole with ivy, the blue corrugated metal building, the low tilted camera angle, the timing and the diagonal color and monochrome sweeps are kept; only the title wording changes.
+<Subject 1> (appears in [Shot 1]): partially_preserved - the two staggered vertical columns, the placement, the rounded lettering, the letter colors, the orange circle behind "が" and the switch to white letters inside the grey areas are kept; the text changes from "負けヒロインが多すぎる！" to "負けAIが多すぎる！".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static low-angle shot looks up at a tilted inverted-triangle road sign with a red border and a cream center, mounted on a pole wrapped in green ivy, in front of the eaves and walls of a building clad in blue and teal corrugated metal, with bright sky at the upper right. No people appear anywhere in this shot. In the upper middle, over the sign, <Subject 1> reads "負けAIが多すぎる！" in two staggered vertical columns: "負けAI" with the small "が" in its orange circle on the right, and "多すぎる！" on the left, starting lower. The shot opens with the left part of the frame in grey monochrome and the right part in color; the color area sweeps across until the whole frame is in color, then a grey monochrome band comes in diagonally from the right and spreads over the right half by the end, following the timing of <Video 1>. Everything inside the grey areas turns grey, including the sign, the pole and the building, and the title letters there turn white. Apart from the "止" on the road sign, this title is the only text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

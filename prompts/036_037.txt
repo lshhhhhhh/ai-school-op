@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed anime close-up of a girl leaning into frame beside a plain yellow wall panel and smiling at the camera.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with short wavy peach-orange hair, a coral wave-shaped hair clip, bright eyes and a white short-sleeved school shirt with coral bows, and whose position, pose and motion come from the long dark-haired girl with straight bangs in <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the long dark-haired girl, leaning in from the right, smiling, pointing both index fingers at her cheeks and closing her eyes in a happy smile. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the plain yellow wall panel with its dark navy lower band, the white pillar, the blurred blue-and-white station structure on the right, the black letterbox bars, the close framing, the camera and the timing are kept; only the girl changes.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the short wavy peach-orange hair, coral wave clip and coral bows from <Picture 1> are retained on the girl in the close-up.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static close-up with a flat yellow wall panel and a dark navy band on the left, a white pillar beside it, and a blurred blue-and-white station structure with railings on the right. The frame opens on the background alone; <Subject 1> then leans in quickly from the right edge and settles in the middle, filling the frame from the chest up, as the girl does in <Video 1>. She smiles at the camera with an open mouth, raises both index fingers to point at her cheeks, and then closes her eyes into a soft, happy smile while holding the pose, following the timing of <Video 1>. Her face stays clean and whole as she slides in. The yellow panel on the left stays a plain flat yellow surface with its navy band, and there is no text anywhere in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

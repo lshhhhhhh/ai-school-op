@@ -1,0 +1,25 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit: two anime shots on a city street with a large planning-credit overlay that stays fixed across the cut.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long wavy dark-blue hair, an ahoge, a blue hairband, blue eyes, small whale-fin ears, a blue whale tail and a white short-sleeved shirt with small blue bows, and whose position, pose and motion come from the blue-haired girl in <Video 1>.
+<Subject 2> is the girl whose appearance comes from <Picture 2>, with long blue-violet hair fading to pink at the tips, purple cat ears, small hair buns with a star clip, one pink eye and one gold eye, a fluffy purple tail and a white shirt with red, yellow and green bows, and whose position, pose and motion come from the tanned short-haired girl in <Video 1>.
+<Subject 3> is the planning-credit overlay in <Video 1>: the small label "企画" at the top center above seven tall vertical name columns spread across the frame, in bold rounded letters with alternating blue and teal colors, white outlines and small colored accent strokes.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the blue-haired girl and <Subject 2> takes the place of the tanned short-haired girl in both shots. In <Subject 3>, the label "企画" stays and the seven columns now read, from right to left, "Sam Altman", "Elon Musk", "梁文锋", "Sundar Pichai", "Dario Amodei", "Jensen Huang" and "Mark Zuckerberg". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (both shots): partially_preserved - the street, the red streetcar, the shop signs, the floating geometric shapes, the camera, the cut and the timing are kept; only the two girls and the seven names change.
+<Subject 1> (appears in [Shot 1], [Shot 2]): fully_preserved - the dark-blue wavy hair, whale-fin ears, whale tail and blue bows from <Picture 1> are retained.
+<Subject 2> (appears in [Shot 1], [Shot 2]): fully_preserved - the blue-violet hair with pink tips, cat ears, star clip, pink and gold eyes, purple tail and colored bows from <Picture 2> are retained.
+<Subject 3> (appears in [Shot 1], [Shot 2]): partially_preserved - the label "企画", the seven vertical columns, their positions, the bold rounded letter style, colors, white outlines and accent strokes are kept and stay fixed across the cut; the seven Japanese names are replaced by the seven listed names.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a street scene with a red-and-cream streetcar on the right, tall shop signs on the left, overhead wires and flat geometric shapes floating over the frame: striped triangles, orange shards and pink triangle outlines. Small in the distance near the streetcar, <Subject 1> stands and then walks closer, and <Subject 2> comes into view on the right, both as small as the girls in <Video 1>, following its camera and timing. Over the whole frame, <Subject 3> shows the small label "企画" at the top center, and below it seven tall vertical name columns stand side by side. From right to left the columns read "Sam Altman", "Elon Musk", "梁文锋", "Sundar Pichai", "Dario Amodei", "Jensen Huang" and "Mark Zuckerberg". Each English name is set sideways, rotated 90 degrees clockwise so it reads from top to bottom inside its column, and "梁文锋" is written upright from top to bottom. Apart from the shop signs and the streetcar markings, the credit overlay is the only text in the frame.
+[Shot 2] At 00:02.333, the shot cuts to a closer view on the same street. <Subject 1> fills the lower left foreground, smiling with her eyes narrowed as she turns her head, and <Subject 2> stands at the lower right, smiling toward the camera, as the two girls do in <Video 1>. The same <Subject 3> credit overlay, with "企画" and the same seven vertical name columns, stays in exactly the same place over the new shot.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

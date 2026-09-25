@@ -1,0 +1,25 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit: two anime shots in a sunny shopping plaza, a wide shot and then a medium shot of a red-haired girl looking at her phone, with two horizontal character-design credits that stay fixed across the cut.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long bright orange hair, an orange flower hair ornament with a black ribbon, orange-amber eyes and a white short-sleeved school shirt with orange-red bows, and whose position, pose and motion come from the red-haired girl in <Video 1>.
+<Subject 2> is the character-design credit on the upper left of <Video 1>: the small label "キャラクターデザイン", below it a small affiliation line in parentheses, and below that a large horizontal name in big dark-navy letters with white outlines and small cyan, magenta and lime accent strokes.
+<Subject 3> is the sub-character-design credit on the upper right of <Video 1>: the small label "サブキャラクターデザイン", below it a large horizontal name in big dark-navy letters with white outlines and small orange, magenta and lime accent strokes, and below the name a small affiliation line in parentheses.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the red-haired girl in both shots. In <Subject 2> the large name now reads "Ilya Sutskever", and in <Subject 3> the large name now reads "Demis Hassabis"; both labels stay, and the small affiliation lines now read "(SSI)" and "(Google DeepMind)". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (both shots): partially_preserved - the plaza, the glass buildings, the blue arch, the trees and shrub planter, the floating geometric shapes, the running and playing children, the distant pedestrians, the camera, the cut and the timing are kept; only the red-haired girl and the two large credit names change.
+<Subject 1> (appears in [Shot 1], [Shot 2]): fully_preserved - the long orange hair, the flower ornament with a black ribbon, the orange-amber eyes and the orange-red bows from <Picture 1> are retained.
+<Subject 2> (appears in [Shot 1], [Shot 2]): partially_preserved - the position, the label "キャラクターデザイン", the small affiliation line, the big letter style, colors, white outlines and accent strokes are kept and stay fixed across the cut; the large name changes from "川上哲也" to "Ilya Sutskever" and the affiliation line from "(A-1 Pictures)" to "(SSI)".
+<Subject 3> (appears in [Shot 1], [Shot 2]): partially_preserved - the position, the label "サブキャラクターデザイン", the small affiliation line, the big letter style, colors, white outlines and accent strokes are kept and stay fixed across the cut; the large name changes from "齋藤悠" to "Demis Hassabis" and the affiliation line from "(A-1 Pictures)" to "(Google DeepMind)".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static wide shot of a sunny paved plaza in front of glass office buildings, with a large curved blue arch overhead, leafy trees on the left, a long planter of green shrubs on the right and flat shapes floating over the frame: pink, orange and cyan triangles and a pink circle outline. At first, two small children run away from the camera on the left while <Subject 1> stands small in the distance in the middle of the plaza, as small as the red-haired girl in <Video 1>. At 00:01.167 the children are gone and <Subject 1> appears closer, walking toward the left across the middle of the plaza while looking at the phone in her hand, with a few small pedestrians far behind her, as the red-haired girl does in <Video 1>. On the upper left, <Subject 2> shows the small label "キャラクターデザイン" and the small line "(SSI)" above the large name "Ilya Sutskever", which stays over the girl when she walks behind it. On the upper right, <Subject 3> shows the small label "サブキャラクターデザイン" above the large name "Demis Hassabis", with the small line "(Google DeepMind)" below it. Both new names are horizontal and fill the big name areas, and the two small affiliation lines keep their original size and positions.
+[Shot 2] At 00:02.333, the shot cuts to a closer medium shot in the same plaza. In the lower middle, <Subject 1> is seen from the chest up, holding her phone with both hands in front of her chest and looking down at it with a calm, slightly sleepy expression, blinking now and then, as the red-haired girl does in <Video 1>. Small children play in the distance on the left behind her, and they stay ordinary children, as in <Video 1>. The same <Subject 2> and <Subject 3> credits, with "Ilya Sutskever", "Demis Hassabis" "(SSI)" and "(Google DeepMind)", stay in exactly the same place over the new shot, and <Subject 1>'s head partly covers the start of <Subject 3>, as in <Video 1>.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

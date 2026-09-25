@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed anime title-card shot of a large vertical director credit over a blue sky with cartoon clouds and flat colorful geometric shapes.
+<Subject 1> is the vertical director credit in the middle of <Video 1>: the small label "監督" in navy letters with an orange accent at the upper right, a medium upper name column at the upper left and a large lower name column below them in the center, in bold navy letters with a few red, pink and green accent strokes and a soft white glow outline; the first letter of the lower column is pink and arrives late, after a small orange hand-drawn squiggle drops into its empty slot.
+
+summary:
+[video editing] The target video is an edited version of <Video 1>. In <Subject 1>, the label "監督" stays and the name now reads "Yoshua Bengio": "Yoshua" runs down the upper column where "北村" was, and "Bengio" runs down the large lower column where "翔太郎" was, with its first letter "B" in pink. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the black letterbox bars, the blue sky, the cartoon clouds, the floating geometric shapes, the static camera and the timing are kept; only the credit name changes.
+<Subject 1> (appears in [Shot 1]): partially_preserved - the label "監督", the vertical two-column layout, the column positions and sizes, the navy letters with colored accent strokes, the white glow outline and the late pink first letter with the orange squiggle are kept; the name changes from "北村 翔太郎" to "Yoshua Bengio".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static letterboxed title card with black bars at the top and bottom, showing a bright blue sky full of white and pale-blue cartoon clouds with dark outlines, and flat geometric shapes floating around the frame: a pink striped triangle and a yellow shard on the left, large pink triangles and a long blue frame line on the right, small yellow striped triangles and a small blue oval, all drifting slightly. There are no people in the shot. In the middle, <Subject 1> stands vertically: the small label "監督" sits at the upper right, "Yoshua" runs down the upper-left column, and "Bengio" runs down the large lower column in the center, in bold navy letters with a few red, pink and green accent strokes and a soft white glow. Each English name is set sideways, rotated 90 degrees clockwise so it reads from top to bottom inside its column. At first the top slot of the lower column is empty; a small orange hand-drawn squiggle flickers down from beside "Yoshua" into that slot and then turns into a pink "B", following the timing of <Video 1>. This credit is the only text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

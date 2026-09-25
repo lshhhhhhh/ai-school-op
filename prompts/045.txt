@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed anime close-up in a dim green-lit space where a glowing letter bursts into sparkles beside the character.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with wavy silver-white medium-length hair, a green hair clip, grey-green eyes, a white short-sleeved school shirt with green bows and a grey-blue pleated skirt with a white hem stripe, and whose position, pose and motion come from the dark-haired boy in the close-up on the left of <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the dark-haired boy. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the dim green-tinted wall background, the letterbox bars, the close-up framing, the glowing letter, the flash, the sparkles, the changing light on the face and the timing are kept; only the boy changes.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the silver-white hair, green hair clip, grey-green eyes and green bows from <Picture 1> are retained on the girl in the close-up.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static letterboxed close-up against a dim, dark-green tiled wall, with the whole image in a cool green tint and a lime-green rim light on the top of the hair. <Subject 1> fills the left half of the frame from the chest up, first looking toward the camera, as the boy does in <Video 1>. In the lower right, a single dark printed kanji "恋" rises into view, starts to glow green and swells into a bright ball of white-green light; <Subject 1> closes her eyes at the flash, and as the light bursts into floating green and yellow sparkles with a pink glowing "恋" drifting off to the upper right, she turns her head into profile facing right to watch it, with the glow lighting the front of her face, as the boy does in <Video 1>. There is no other text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

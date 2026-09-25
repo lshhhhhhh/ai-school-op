@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed anime close-up of a small schoolgirl running with her eyes squeezed shut and teary against a stylized blue sky with flat white clouds.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long bright orange hair, an orange flower hair ornament with a black ribbon, orange-amber eyes and a white short-sleeved school shirt with orange-red bows, and whose position, pose, expression and motion come from the red-haired girl running in <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the red-haired girl who runs with her hands clutched at her chest and her face screwed up in tears. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the black letterbox bars, the bright blue sky with flat white and pale-cyan clouds on the left, the soft lens flare, the upward camera tilt from her chest to her face, the framing and the timing are kept; only the running girl changes.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the long orange hair, orange flower ornament with a black ribbon, orange-amber eyes and orange-red bows from <Picture 1> are retained on the running girl, who keeps the teary, eyes-shut expression of <Video 1>.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a letterboxed close-up with black bars at the top and bottom, against a bright blue sky with flat white and pale-cyan clouds on the left and a soft lens flare. The camera starts on the runner's chest, where both her hands clutch the bows of her white shirt, and tilts up to her face. <Subject 1> leans forward and to the left as she runs, her face turned three-quarters toward the camera and her head tilted, eyes squeezed shut with small tears and her mouth open in a strained wail, her orange hair bouncing with every step, as the red-haired girl does in <Video 1>. The background is only this sky and its clouds, with no building, shop, sign or other person in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

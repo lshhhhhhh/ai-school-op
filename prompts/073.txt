@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed anime shot of a lone girl standing still under a yellow umbrella on a rain-soaked school plaza.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long blue-violet hair fading to pink at the tips, purple cat ears, small hair buns with a star clip, one pink eye and one gold eye, a fluffy purple tail, a white short-sleeved school shirt with red, yellow and green bows and a grey-blue pleated skirt with a white hem stripe, and whose position, pose and motion come from the short-haired girl in a brown striped sweater and olive trousers holding a yellow umbrella in the middle-left of <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the short-haired girl who stands alone in the rain holding the yellow umbrella. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the black letterbox bars, the rainy plaza with puddles and reflections, the falling rain, the yellow umbrella, the trees, the railing, the school buildings, the lamp post, the hedge at the lower right, the floating red "恋", the static camera and the timing are kept; only the girl changes.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the blue-violet hair with pink tips, cat ears, star clip, pink and gold eyes, purple tail, colored bows and school uniform from <Picture 1> are retained on the girl under the umbrella.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static wide shot framed with black letterbox bars at the top and bottom, looking across a wet grey plaza on a rainy day, with thin streaks of rain falling, large puddles mirroring the pale sky, leafy trees and a metal railing behind, pale school buildings in the upper middle, a thin lamp post on the right and a green hedge with a brick edge in the lower right corner. In the middle-left, <Subject 1> stands alone and still, holding a pale yellow umbrella over her head with both hands close to her chest, her head bowed and her face half shaded, small in the frame, as small as the girl in <Video 1>. A small red hand-drawn "恋" with a thin white outline appears near the umbrella, drifts up and to the right, then tumbles down and grows larger beside the puddles to her lower right, as in <Video 1>. The rainy plaza fills the whole picture, and the red "恋" is the only text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

@@ -1,0 +1,30 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed anime shot looking down a long covered walkway between school buildings, where three schoolgirls run through the foreground one after another while a student stands small at the far end, with two vertical music-credit captions on the left and right.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long blue-violet hair fading to pink at the tips, purple cat ears, small hair buns with a star clip, one pink eye and one gold eye, a fluffy purple tail and a white short-sleeved school shirt with red, yellow and green bows, and whose position, pose and motion come from the tanned short-haired girl who runs through first in <Video 1>.
+<Subject 2> is the girl whose appearance comes from <Picture 2>, with long wavy dark indigo-blue hair, a loop ahoge, a blue hairband, blue eyes, small whale-fin ears, a blue whale tail and a white short-sleeved school shirt with blue bows, and whose position, pose and motion come from the blue-haired girl who runs through second in <Video 1>.
+<Subject 3> is the girl whose appearance comes from <Picture 3>, with long bright orange hair, an orange flower hair ornament with a black ribbon, orange-amber eyes and a white short-sleeved school shirt with orange-red bows, and whose position, pose and motion come from the small red-haired girl who runs through last in <Video 1>.
+<Subject 4> is the girl whose appearance comes from <Picture 4>, with wavy silver-white medium-length hair, a green hair clip, grey-green eyes, a white short-sleeved school shirt with green bows and a grey-blue pleated skirt with a white hem stripe, and whose small size, position and pose come from the dark-haired boy standing far away at the end of the walkway in <Video 1>.
+<Subject 5> is the vertical credit caption on the left of <Video 1>: a small vertical label "音楽ディレクター" beside a large vertical name in bold dark-navy letters with a soft white outline and small cyan, pink, yellow and purple accent strokes.
+<Subject 6> is the vertical credit caption on the right of <Video 1>: a small vertical label "音楽プロデューサー" beside a large vertical name in the same bold dark-navy letters with a soft white outline and small colored accent strokes.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1>, <Subject 2> and <Subject 3> take the places of the tanned short-haired girl, the blue-haired girl and the red-haired girl who run through the foreground in that order, and <Subject 4> takes the place of the small dark-haired boy at the far end of the walkway. In <Subject 5> the label "音楽ディレクター" stays and the name now reads "Mati Staniszewski"; in <Subject 6> the label "音楽プロデューサー" stays and the name now reads "David Ding". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the black letterbox bars, the covered walkway with its green roof frames and low green side walls, the pale green school buildings, trees, bushes and fallen leaves, the static camera and the timing are kept; only the four students and the two credit names change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the blue-violet hair with pink tips, cat ears, star clip, pink and gold eyes, purple tail and red, yellow and green bows from <Picture 1> are retained on the first girl to run through.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the dark indigo-blue wavy hair, loop ahoge, blue hairband, whale-fin ears, whale tail and blue bows from <Picture 2> are retained on the second girl to run through.
+<Subject 3> (appears in [Shot 1]): fully_preserved - the long orange hair, orange flower ornament with a black ribbon and orange-red bows from <Picture 3> are retained on the last girl to run through.
+<Subject 4> (appears in [Shot 1]): fully_preserved - the silver-white hair, green hair clip, green bows and grey-blue pleated skirt from <Picture 4> are retained on the distant student, who is a girl in the girls' uniform and stays as small as in <Video 1>.
+<Subject 5> (appears in [Shot 1]): partially_preserved - the vertical placement on the left, the small label "音楽ディレクター", the bold dark-navy letters, white outline and colored accent strokes are kept; the name changes from "安谷屋光生" to "Mati Staniszewski".
+<Subject 6> (appears in [Shot 1]): partially_preserved - the vertical placement on the right, the small label "音楽プロデューサー", the bold dark-navy letters, white outline and colored accent strokes are kept; the name changes from "山内真治" to "David Ding".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static letterboxed shot with black bars at the top and bottom looks straight down a long covered walkway with a green metal roof and low green side walls, between pale green school buildings, with leafy trees, bushes and fallen leaves on both sides. At the far end of the walkway, <Subject 4> stands small in the distance in the middle of the path, as small as the boy in <Video 1>. In the foreground, the three girls run into the frame from the right one after another and cross to the left, turning away toward the walkway: first <Subject 1>, who glances back with one hand raised, then <Subject 2> with her arms pumping, then <Subject 3> with her eyes squeezed shut, as the three girls do in <Video 1>. On the left, <Subject 5> shows the small label "音楽ディレクター" beside the large name "Mati Staniszewski"; on the right, <Subject 6> shows the small label "音楽プロデューサー" beside the large name "David Ding". Each English name is set sideways, rotated 90 degrees clockwise so it reads from top to bottom inside its column. Both captions stay in the same place for the whole shot, and the running girls pass in front of them. Apart from these two captions, there is no other text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

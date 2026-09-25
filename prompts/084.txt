@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed anime top-down close-up of two hands closing a paperback book on a table, with the final production credit.
+<Subject 1> is the horizontal production credit in the center of <Video 1>: the small label "製作" on the upper line and a larger one-line name below it, in bold dark-navy letters with white outlines and small pink, purple, green and red accent strokes, laid over the book.
+
+summary:
+[video editing] The target video is an edited version of <Video 1>. In <Subject 1>, the label "製作" stays and the name line now reads "AI学園制作委員会". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the black letterbox bars, the orange table with cream patterns, the two hands, the paperback book and its closing movement, the barcode label and small print on the book, the camera and the timing are kept; only the credit name changes.
+<Subject 1> (appears in [Shot 1]): partially_preserved - the horizontal two-line layout, the label "製作", the position, letter size, dark-navy color, white outlines, colored accent strokes and pop-in timing are kept; the name changes from "マケイン応援委員会" to "AI学園制作委員会".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static letterboxed top-down close-up with black bars at the top and bottom, over an orange table with cream cloud-like patterns. Two hands hold an open paperback book; one hand then closes the book so its blue back cover with a white barcode label faces up and rests on it, while the other hand stays at the lower right corner, following <Video 1>. At 00:00.875, as the book closes, <Subject 1> appears in the center over the book: the small label "製作" on the upper line and "AI学園制作委員会" on the line below, larger, in bold dark-navy letters with white outlines and small pink, purple, green and red accent strokes, and it stays until the end. Apart from the small print and the barcode on the book, this credit is the only text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

@@ -1,0 +1,26 @@
+subject_definitions:
+<Subject 1> is the SAME replacement schoolgirl shown in <Picture 1> (face detail) and <Picture 2> (full school-outfit reference). DeepSeek whale girl with long indigo-blue wavy hair, bright BLUE eyes, a loop-shaped ahoge, slim blue hairband, blue-and-white fin-like side ornaments, and a dark-blue whale tail. Her uniform has three dark-blue/blue/cyan bows and a blue whale chest-pocket emblem.
+She wears the pictured white short-sleeve button shirt with small pointed collar and grey-blue cuffs, grey-blue pleated skirt with thin white hem stripe, dark knee socks and brown loafers. No apron, maid lace, gown, blazer or sailor collar.
+<Video 1> is the original shot to edit. There is one source girl to replace.
+
+summary:
+[video editing + reference generation] Replace the entire visible source girl with <Subject 1> from the FIRST FRAME, and simultaneously perform every text replacement below. Transfer the source girl's pose, gaze, expression, screen location and action timing, but use the new face, hair, eyes, accessories and school outfit. All requested character and typography edits belong in this single model pass.
+
+text_replacements:
+No lettering replacement is needed in this shot. Keep geometric graphics and any visible product packaging. Do not add names, captions or title text.
+
+retention_analysis:
+<Subject 1>: fully_preserved - use her exact reference identity and school costume, redrawn with the original OP's crisp 2D lines and cel shading. The source girl contributes performance and perspective only; remove her old identity. Never copy the reference sheet's white backdrop, full-body standing pose or screen scale.
+Background, props, foreground occluders and visual effects: fully_preserved - retain their structure, perspective, color, animation and layering. Preserve product packaging brands.
+Specified old title/name lettering: replace its CONTENT completely while transferring its original visual style, placement and motion. Do not preserve old glyphs that conflict with the new exact strings.
+Source timing and framing: preserve the exact action timing, shot boundaries and letterbox composition. No invented camera movement, scene, cut, extra people, watermark or reference-sheet panel.
+
+detailed_description:
+[Shot 1] The second brief opening close-up, with the top of the girl's head moving/cropped as in the source. Keep the same close crop and action. Her long blue hair and loop ahoge replace the original bob and ahoge. Preserve cyan background and foreground graphics. Do not add a full face or body where the source crops them.
+This is ONE original shot, frames 6 through 13. Match all reference action through local time 0.333333 seconds (the first 8 frames). Remaining reference frames only hold the last pose: hold that same final composition to the end, with no added action or scene. Respect partial cropping and source occlusions. Never enlarge a distant character into a close-up or zoom out a close-up into a reference sheet.
+
+overall_soundscape:
+None. Generated audio is discarded and original music restored during assembly.
+
+non_diegetic_music:
+N/A

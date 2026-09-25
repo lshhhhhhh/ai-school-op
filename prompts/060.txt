@@ -1,0 +1,22 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single anime shot that starts on a tilted close-up of a sleepy long-haired girl and quickly pulls back to a wide view of her standing under a glass-roofed bus shelter in a park, with a diagonal producer credit.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with fluffy honey-blonde shoulder-length curls, cream llama ears, a small blue infinity hair clip, hazel eyes, a small fluffy cream tail, a blue infinity badge and a white short-sleeved school shirt with blue and white bows, and whose position, pose and motion come from the pale long-haired girl with the sleepy gaze in <Video 1>, who fills the close-up at the start and then stands small under the bus shelter, right of center.
+<Subject 2> is the diagonal producer credit on the left half of <Video 1>: a small white label "プロデューサー" with a dark outline and small colored accents, set just above a large name in bold rounded letters, dark navy with thick white outlines, one letter with a lavender-blue inner fill, a small yellow accent and the last part in pink; both lines rise along the same diagonal from the lower left corner toward the upper middle of the frame.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the pale long-haired girl, both in the opening close-up and later small under the bus shelter. In <Subject 2>, the label "プロデューサー" stays and the large name now reads "Dario Amodei". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the park, the glass-roofed bus shelter, the trees, the tilted opening close-up, the fast pull-back with motion blur, the credit swing-in and the timing are kept; only the girl and the large credit name change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the honey-blonde curls, cream llama ears, infinity clip, hazel eyes, cream tail, infinity badge and blue bows from <Picture 1> are retained on the girl, who keeps her sleepy look and stays small under the shelter after the pull-back.
+<Subject 2> (appears in [Shot 1]): partially_preserved - the rising diagonal layout, the label "プロデューサー", the bold rounded letter style, the dark-navy and pink colors, the white outlines and the swing-in timing are kept; the large name changes from "神宮司学" to "Dario Amodei".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, the shot opens on a tilted close-up: <Subject 1>'s face fills the right side of the frame against the green metal frame of the bus shelter, looking at the camera with a sleepy, slightly surprised expression, and holds there for the first moments, as the girl does in <Video 1>. At 00:00.417 the camera pulls back fast with strong motion blur, and the shot settles on a static wide view of a park with leafy trees, a pale sky and a glass-roofed bus shelter with green posts. <Subject 1> stands under the shelter just right of center, small in the distance, as small as the girl in <Video 1>, with her hands low in front of her. At 00:00.583 <Subject 2> swings in and then holds over the left half of the frame: the small label "プロデューサー" runs along the upper edge, and below it the large name "Dario Amodei" rises diagonally from the lower left corner toward the upper middle of the frame, in bold rounded dark-navy letters with thick white outlines, with "Amodei" in pink. The credit keeps the same position and angle as in <Video 1> and never covers <Subject 1>. Apart from this credit, there is no text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

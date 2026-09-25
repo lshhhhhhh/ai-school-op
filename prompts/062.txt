@@ -1,0 +1,24 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single anime shot that starts on a close-up of a long-haired girl and pulls back to a wide view of her and a pale-haired boy standing on a walkway inside a lantern-lit cave tunnel, with two vertical producer credits on the left.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with a short angular orange bob with a dark underlayer and a red forelock, amber eyes, a pixel M hair clip, an orange pixel badge, a white short-sleeved school shirt with orange and red bows and a grey-blue pleated skirt with a white hem stripe, and whose position, pose and motion come from the pale silver-haired boy in the blue T-shirt on the left of the pair in <Video 1>.
+<Subject 2> is the girl whose appearance comes from <Picture 2>, with long wavy blue-violet hair with a side braid, violet eyes, a violet knot hair clip with a tassel, a star badge and a white short-sleeved school shirt with purple bows, and whose position, pose and motion come from the long brown-haired girl on the right of the pair in <Video 1>, who fills the opening close-up.
+<Subject 3> is the pair of vertical producer credits on the left half of <Video 1>: two tall, slightly slanted name columns in bold rounded dark-teal letters with thick white outlines and small pink, green, cyan and purple accent strokes, each with its own small vertical white label "プロデューサー" just to its right; one column stands left of center and the other at the far left edge.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 2> takes the place of the long brown-haired girl on the right, including the opening close-up, and <Subject 1> takes the place of the pale-haired boy on the left. In <Subject 3>, both labels "プロデューサー" stay; the column left of center now reads "Arthur Mensch" and the column at the far left now reads "吴泳铭". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the warm brown cave tunnel, the round glowing yellow lanterns on a string, the wooden walkway, the small plush dog figure in a yellow hard hat, the warm color palette, the continuous pull-back from the close-up, the credit slide-ins and the timing are kept; only the two people and the two credit names change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the orange bob with the red forelock, pixel M clip, amber eyes, orange and red bows and the pleated skirt from <Picture 1> are retained on the left girl, who is a girl in the girls' uniform.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the blue-violet hair with the side braid, violet knot clip, violet eyes, star badge and purple bows from <Picture 2> are retained on the right girl.
+<Subject 3> (appears in [Shot 1]): partially_preserved - the two slanted vertical columns, their positions, the two labels "プロデューサー", the bold rounded dark-teal letters, white outlines, colored accent strokes and the staggered slide-in timing are kept; the column left of center changes from "大和田智之" to "Arthur Mensch" and the far-left column changes from "長嶺利江子" to "吴泳铭".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, the shot opens on a very close view of <Subject 2>'s eyes and keeps pulling back: she smiles with one finger raised to her lips, <Subject 1>'s shoulder appears at the left edge, and the two stand side by side in a medium shot, as the pair does in <Video 1>. At 00:00.417 the camera pulls back fast with motion blur, and the shot settles on a static wide view inside a warm reddish-brown cave tunnel lit by round glowing yellow lanterns, with a wooden plank walkway in the foreground. <Subject 1> stands on the left of the pair and <Subject 2> on the right, right of center, small in the distance, as small as the pair in <Video 1>, with the small plush dog figure in a yellow hard hat sitting just to their left. The whole scene keeps the warm brown, amber and yellow colors of <Video 1>. At 00:00.500 the first credit slides in left of center: the vertical column "Arthur Mensch" in bold rounded dark-teal letters with thick white outlines and colored accent strokes, with its label "プロデューサー" to its right. At 00:00.708 the second credit slides in at the far left edge: the vertical column "吴泳铭" in the same style, with its own label "プロデューサー" to its right. "Arthur Mensch" is set sideways, rotated 90 degrees clockwise so it reads from top to bottom inside its column, and "吴泳铭" is written upright from top to bottom. Apart from these two credits, there is no text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

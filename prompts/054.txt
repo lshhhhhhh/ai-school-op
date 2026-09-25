@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed anime close-up of a schoolgirl running to the right in side profile against a stylized blue sky with flat white clouds.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long wavy dark indigo-blue hair, a loop ahoge, a blue hairband, blue eyes, small whale-fin ears, a blue whale tail and a white short-sleeved school shirt with blue bows, and whose position, pose and motion come from the blue-haired girl running to the right in <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the blue-haired girl who runs to the right in side profile. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the black letterbox bars, the bright blue sky with flat white and pale-cyan clouds, the soft lens flare, the upward camera tilt, the framing and the timing are kept; only the running girl changes.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the long dark indigo-blue hair, loop ahoge, blue hairband, whale-fin ears, whale tail and blue bows from <Picture 1> are retained on the running girl.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a letterboxed close-up with black bars at the top and bottom. The camera starts low on the runner's grey-blue pleated skirt, bare legs and brown loafers and tilts up to her upper body, against a bright blue sky with flat white and pale-cyan clouds on the left and a soft lens flare. <Subject 1> runs to the right in side profile with her arms pumping and her mouth open, her long dark indigo-blue hair streaming out behind her, as the blue-haired girl does in <Video 1>. The background is only this sky and its clouds, with no building, shop or other person in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

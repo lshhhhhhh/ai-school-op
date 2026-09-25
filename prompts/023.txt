@@ -1,0 +1,22 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single low-angle anime close-up in a bookstore aisle with a credit caption.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with wavy silver-white medium-length hair, a green hair clip, grey-green eyes and a white short-sleeved school shirt with green bows, and whose position, pose and motion come from the dark-haired boy on the right of <Video 1>.
+<Subject 2> is the diagonal credit caption on the left of <Video 1>: a small colorful label "キャラクター原案" above a large name in rounded dark-navy letters with white outlines, whose first letter is red inside a mint-green circle.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the dark-haired boy, and in <Subject 2> the large name now reads "Fei-Fei Li" while the label "キャラクター原案" stays. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the bookshelves, floating geometric shapes, the held manga volume, the camera and the timing are kept; only the boy and the large credit name change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the silver-white hair, green hair clip, grey-green eyes and green bows from <Picture 1> are retained.
+<Subject 2> (appears in [Shot 1]): partially_preserved - the diagonal layout, the label "キャラクター原案", the rounded letter style, colors, white outlines, mint-green circle and pop-in timing are kept; the large name changes from "いみぎむる" to "Fei-Fei Li".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static low-angle close-up in a bookstore aisle, with tall blue bookshelves filling the background and flat geometric shapes floating around the frame: a white triangle, a striped oval, a yellow striped triangle, a pink triangle outline and a yellow square. On the right, <Subject 1> first looks toward the shelves in profile, blinks, and then turns her head to look at the camera, while her hand holds a manga volume up in front of the shelf, as the boy does in <Video 1>. On the left, <Subject 2> runs diagonally down the frame: the small label "キャラクター原案" sits above the large name "Fei-Fei Li", written in rounded dark-navy letters with white outlines, with a red "F" inside the mint-green circle. Apart from the small print on the manga cover, this caption is the only text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

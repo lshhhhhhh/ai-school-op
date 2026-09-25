@@ -1,0 +1,28 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed anime shot of stylized summer trees under a cloudy blue sky, where three schoolgirls run in from the left foreground one after another and head away from the camera along a path toward a small bridge in the distance, with two horizontal sound-credit captions across the upper part of the frame.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long blue-violet hair fading to pink at the tips, purple cat ears, small hair buns with a star clip, one pink eye and one gold eye, a fluffy purple tail and a white short-sleeved school shirt with red, yellow and green bows, and whose position, pose and motion come from the tanned short-haired girl who runs in first in <Video 1>.
+<Subject 2> is the girl whose appearance comes from <Picture 2>, with long wavy dark indigo-blue hair, a loop ahoge, a blue hairband, blue eyes, small whale-fin ears, a blue whale tail and a white short-sleeved school shirt with blue bows, and whose position, pose and motion come from the blue-haired girl who runs in second in <Video 1>.
+<Subject 3> is the girl whose appearance comes from <Picture 3>, with long bright orange hair, an orange flower hair ornament with a black ribbon, orange-amber eyes and a white short-sleeved school shirt with orange-red bows, and whose position, pose and motion come from the red-haired girl who runs in last and stays nearest the camera in <Video 1>.
+<Subject 4> is the horizontal credit caption in the upper left of <Video 1>: a small label "音響効果" above a large name in bold dark-navy letters with a white outline and small pink, red and yellow accent strokes, set with a slight tilt.
+<Subject 5> is the horizontal credit caption in the upper right of <Video 1>: a small label "音響監督" above a large name in the same bold dark-navy letters with a white outline and small orange, yellow, red and green accent strokes.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1>, <Subject 2> and <Subject 3> take the places of the tanned short-haired girl, the blue-haired girl and the red-haired girl who run in from the left in that order and walk away from the camera. In <Subject 4> the label "音響効果" stays and the name now reads "Aaron van den Oord"; in <Subject 5> the label "音響監督" stays and the name now reads "Alex Graves". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the black letterbox bars, the stylized blue, green and yellow trees, the white clouds and blue sky, the path, hedges and small bridge in the distance, the camera, the slow shrinking of both captions and the timing are kept; only the three girls and the two credit names change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the blue-violet hair with pink tips, cat ears, star clip, purple tail and red, yellow and green bows from <Picture 1> are retained on the first girl, seen mostly from behind.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the dark indigo-blue wavy hair, loop ahoge, blue hairband, whale-fin ears, whale tail and blue bows from <Picture 2> are retained on the second girl, seen mostly from behind.
+<Subject 3> (appears in [Shot 1]): fully_preserved - the long orange hair, orange flower ornament with a black ribbon and orange-red bows from <Picture 3> are retained on the third girl, seen mostly from behind.
+<Subject 4> (appears in [Shot 1]): partially_preserved - the horizontal layout in the upper left, the small label "音響効果", the bold dark-navy letters, white outline, colored accent strokes and slow shrinking are kept; the name changes from "長谷川卓也" to "Aaron van den Oord".
+<Subject 5> (appears in [Shot 1]): partially_preserved - the horizontal layout in the upper right, the small label "音響監督", the bold dark-navy letters, white outline, colored accent strokes and slow shrinking are kept; the name changes from "吉田光平" to "Alex Graves".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a letterboxed shot with black bars at the top and bottom looks over stylized leafy trees in blue, green and yellow under a blue sky with white clouds, with a path running between low hedges toward a small bridge with a white railing far in the distance. The three girls run into the frame from the left foreground one after another, seen from behind, and head away from the camera along the path: first <Subject 1>, then <Subject 2>, then <Subject 3>, who ends up nearest the camera at the lower left while <Subject 2> walks in the middle and <Subject 1> furthest ahead, as the three girls do in <Video 1>. In the upper left, <Subject 4> shows the small label "音響効果" above the large name "Aaron van den Oord"; in the upper right, <Subject 5> shows the small label "音響監督" above the large name "Alex Graves". Both names are written horizontally, sit fully inside the frame and slowly shrink over the shot as the original captions do, with the girls passing in front of them. Apart from these two captions there is no text in the frame, and the bridge in the distance stays small and empty, with no crowd or signboards.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

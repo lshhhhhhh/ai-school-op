@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single very short letterboxed anime shot of a girl seen from behind, running and leaping along a sunny seaside road lined with palm trees.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long wavy dark-blue hair, an ahoge, a blue hairband, blue eyes, small whale-fin ears, a blue whale tail, a white short-sleeved school shirt with small blue bows and a grey-blue pleated skirt with a white hem stripe, and whose position, pose and motion come from the short-haired dark-blue-haired girl in a white sundress, seen from behind in the middle of <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the dark-blue-haired girl in the white sundress who runs away from the camera and leaps along the seaside road. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the black letterbox bars, the seaside road, the palm trees, the red-roofed house, the wind turbines, the clouds, the sunbeam, the static camera and the timing are kept; only the girl changes.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the dark-blue wavy hair, whale-fin ears, whale tail, blue bows and school uniform from <Picture 1> are retained on the girl seen from behind.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static wide shot framed with black letterbox bars at the top and bottom, looking along a sunny seaside road: a bright blue sky with large white clouds, green hills, the sea and white wind turbines on the left horizon, tall palm trees with blue fronds and a leaning orange trunk on the right, a small house with a red roof beside them, and a pale paved road in the foreground, with a soft beam of sunlight falling from the upper right. In the middle of the frame, <Subject 1> is seen from behind, as small in the frame as the girl in <Video 1>; she runs away from the camera along the road and leaps up with both arms spread out to the sides, her long hair, skirt and whale tail fluttering, as the blue-haired girl does in <Video 1>. Her head is bare, with no hat or hood.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

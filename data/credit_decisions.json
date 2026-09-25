@@ -1,0 +1,38 @@
+{
+ "updated": "2026-09-24T01:12:20.063677-07:00",
+ "source": "用户在对话中确认（2026-09-24）",
+ "credits": {
+  "021-022 原作": "Geoffrey Hinton（原计划 Yoshua Bengio；用户要求原作用 Hinton 这种大佬）",
+  "075 監督": "Yoshua Bengio（原计划 Geoffrey Hinton，与原作对调；画面标签是「監督」不是「総監督」）",
+  "027 シリーズ構成": "Yann LeCun（不变；图灵奖三巨头对应三个核心职位）"
+ },
+ "affiliations": {
+  "rule": "原片 \"(A-1 Pictures)\" 所属标注改成该工作人员自己所在的 AI 公司（用户提议“改成不同的AI公司”）",
+  "028-029": {
+   "Ilya Sutskever": "(SSI)",
+   "Demis Hassabis": "(Google DeepMind)"
+  },
+  "031": {
+   "Andrej Karpathy": "(Eureka Labs)",
+   "Noam Shazeer": "(Google DeepMind)",
+   "Ashish Vaswani": "(Essential AI)"
+  },
+  "035": {
+   "Robin Rombach": "(Black Forest Labs)"
+  },
+  "039": {
+   "David Holz": "(Midjourney)"
+  },
+  "046": {
+   "Tim Brooks": "(Google DeepMind)"
+  }
+ },
+ "identities": {
+  "038": "无主要人物，只替换文字",
+  "039/040": "甘夏老师 → doubao",
+  "058": "走廊尽头男生 = 温水 → gpt",
+  "032-033": "远景里的玉木（深绿发男生）和温水（绿连帽衫男生）也必须换成女生；修订2漏换，修订3已补对比说明。",
+  "035/062": "朝雲千早 = 棕色直长发女生（035 里穿黄色连衣裙）→ qwen；綾野光希 = 银灰发戴眼镜男生（035 里穿绿马甲）→ mistral。full_plan cast 里\"绿色波波头 / 浅棕发\"的外观描述是错的，写提示词时按画面实际外观。",
+  "063": "左 馬剃天愛星→ernie；中间高个红色长直发 放虎原ひばり→hunyuan；右边远景坐着看书的男生是一次性角色→spark。"
+ }
+}

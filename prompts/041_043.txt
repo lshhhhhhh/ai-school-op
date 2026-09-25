@@ -1,0 +1,17 @@
+【wide】
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] 2D-animated television anime with flat cel shading, two-tone shadows and clean dark linework, matching the drawing style and colors of <Picture 1>, the shot begins from <Picture 1>: inside a picture shaped like the curved top edge of an open book's pages over a black background, a low-angle view of a bright blue sky with white clouds above a white railing, with flat graphic shapes floating over it. The girl with long wavy dark-blue hair, whale-fin ears and a whale tail stands small by the railing while her long hair and skirt blow gently in the wind, and the graphic shapes drift slightly. The camera holds a static shot; the page-shaped frame, the composition and the girl's appearance stay as in <Picture 1>.
+
+overall_soundscape: N/A
+
+non_diegetic_music: N/A
+
+【close】
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] 2D-animated television anime with flat cel shading, two-tone shadows and clean dark linework, matching the drawing style and colors of <Picture 1>, the shot begins from <Picture 1>: a low-angle close-up of the girl with long wavy dark-blue hair, a blue hairband and whale-fin ears against the sky, inside the same page-shaped frame, with flat graphic shapes floating over the picture. Her long hair blows across the frame in the wind and one hand stays near her collar; she moves only slightly. The camera holds a static shot; the composition and her appearance stay as in <Picture 1>.
+
+overall_soundscape: N/A
+
+non_diegetic_music: N/A

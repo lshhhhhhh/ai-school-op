@@ -1,0 +1,26 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed high-angle anime shot of three small schoolgirls standing on a stylized yellow ground with diagonal color streaks, a large spinning red character graphic on the right and a diagonal music credit at the upper left.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long blue-violet hair fading to pink at the tips, purple cat ears, small hair buns with a star clip, one pink eye and one gold eye, a fluffy purple tail and a white short-sleeved school shirt with red, yellow and green bows, and whose position, pose and motion come from the tanned girl with short brown hair standing at the left of <Video 1>.
+<Subject 2> is the girl whose appearance comes from <Picture 2>, with long copper-orange hair, an orange flower hair clip with a black ribbon, amber eyes and a white short-sleeved school shirt with orange-red bows, and whose position, pose and motion come from the red-haired girl standing farther back in the middle of <Video 1>.
+<Subject 3> is the girl whose appearance comes from <Picture 3>, with long wavy dark indigo-blue hair, an ahoge, a blue hairband, blue eyes, small whale-fin ears, a blue whale tail and a white short-sleeved school shirt with small blue bows, and whose position, pose and motion come from the blue-haired girl standing on the right of the group in <Video 1>.
+<Subject 4> is the diagonal music credit at the upper left of <Video 1>: two label-and-name pairs set along a line rising toward the upper right, each a small label above a large name, in dark navy letters with white outlines and a few letters picked out in pink, cyan, yellow and green.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. The three standing girls are, from left to right, <Subject 1>, <Subject 2> and <Subject 3>, each taking the place of the original girl at that position. In <Subject 4>, the labels "音楽" and "音楽制作" stay, the name under "音楽" now reads "Mikey Shulman" and the name under "音楽制作" now reads "AI School Sound". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the high camera angle, the black letterbox bars, the pale yellow ground with olive patches and teal, pink and purple diagonal streaks, the large spinning coral-red "恋" graphic, the skirt that sweeps across the foreground at the end, and the timing are kept; only the three girls and the two credit names change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the blue-violet hair with pink tips, cat ears, star clip, pink and gold eyes, purple tail and red, yellow and green bows from <Picture 1> are retained on the girl at the left, who stays as small as the girl in <Video 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the long copper-orange hair, flower hair clip with a black ribbon, amber eyes and orange-red bows from <Picture 2> are retained on the girl in the middle, who stays small and farther back.
+<Subject 3> (appears in [Shot 1]): fully_preserved - the dark indigo-blue wavy hair, blue hairband, whale-fin ears, whale tail and blue bows from <Picture 3> are retained on the girl at the right, who stays as small as the girl in <Video 1>.
+<Subject 4> (appears in [Shot 1]): partially_preserved - the diagonal layout, the labels "音楽" and "音楽制作", the letter style, colors, white outlines and accent colors are kept; the names change from "うたたね歌菜" to "Mikey Shulman" and from "アニプレックス" to "AI School Sound".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a letterboxed high-angle shot with black bars at the top and bottom, looking down on a flat pale yellow ground covered with olive-brown patches and long teal, pink and purple streaks running diagonally toward the upper right. Three girls stand in the left half of the frame, each small and seen in full figure from above, as small as the girls in <Video 1>: at the left, <Subject 1> stands with her arms loose and her head turning slightly; in the middle and farther back, <Subject 2> stands still; on the right of the group, <Subject 3> stands looking up toward the camera; each moves only a little, as the three girls do in <Video 1>. On the right side of the frame, a huge coral-red "恋" character with a cream outline spins and flips in place throughout the shot, as in <Video 1>. At the upper left, <Subject 4> runs diagonally upward to the right: the small label "音楽" above the large name "Mikey Shulman", and to its right the small label "音楽制作" above the name "AI School Sound", all in horizontal Latin letters along the diagonal, in dark navy letters with white outlines and a few colored accent letters. Near the end, from about 00:03.458, a grey-blue pleated skirt with a white hem stripe sweeps in from the left very close to the camera and fills the frame, as in <Video 1>. Apart from the "恋" graphic, this credit is the only text in the frame, and the three girls are the only people on the ground.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

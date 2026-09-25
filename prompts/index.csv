@@ -1,0 +1,74 @@
+﻿unit,frames,kind,version,prompt,seed,reference_images
+001,6,copy,A · 当前样片,,,
+002,8,executed,A · 当前样片,002.txt,260923201,op_aae975ba2cb38e944c1e.png | op_6aebec81f51dfac92a89.png
+003,10,executed,修订 2 · 去除包装诱导,003.txt,260923202,op_aae975ba2cb38e944c1e.png | op_6aebec81f51dfac92a89.png
+004,33,executed,修订2·官方格式,004.txt,2609230404,op_6aebec81f51dfac92a89.png
+005,8,executed,A · 当前样片,005.txt,260923204,op_189146f8d71d43bb7dd6.png | op_b9fb073a60815ad1d2c9.png
+006,7,executed,A · 当前样片,006.txt,260923205,op_189146f8d71d43bb7dd6.png | op_b9fb073a60815ad1d2c9.png
+007,33,executed,A · 当前样片,007.txt,2609232707,op_b9fb073a60815ad1d2c9.png
+008,24,executed,A · 当前样片,008.txt,260923207,op_a92753b7d829b0d42b68.png | op_8131393aa8831dedf6f6.png
+009,30,executed,修订8·官方格式单镜头,009.txt,2609230909,op_8131393aa8831dedf6f6.png
+010,9,copy,A · 当前样片,,,
+011,5,builtin_imagegen,修订3·生图匹配原字卡,011.txt,,原片字卡参考
+012,5,cpu_text,A · 当前样片,,,
+013,8,copy,A · 当前样片,,,
+014_015,115,executed,修订2·官方格式,014_015.txt,2609231414,op_e5564ea2b3bcaa0c29be.png
+016,26,executed,修订3·明确替换全部标题,016.txt,2609231616,op_e5564ea2b3bcaa0c29be.png
+017,12,executed,修订3·官方H3格式提示词,017.txt,2609231717,op_6aebec81f51dfac92a89.png | op_b9fb073a60815ad1d2c9.png | op_8131393aa8831dedf6f6.png
+018,12,executed,修订3·黑白斜扫时人物也变灰,018.txt,2609231818,op_b9fb073a60815ad1d2c9.png | op_8131393aa8831dedf6f6.png | op_6aebec81f51dfac92a89.png | op_e5564ea2b3bcaa0c29be.png
+019,12,executed,修订2·官方格式,019.txt,2609231919,
+020,33,executed,A · 当前样片,020.txt,2609232020,op_e5564ea2b3bcaa0c29be.png
+021-022,66,executed,修订2·合并生成·官方格式,021-022.txt,2609232121,op_e5564ea2b3bcaa0c29be.png
+023,36,executed,修订2·官方格式+只换大字名,023.txt,2609232323,op_e5564ea2b3bcaa0c29be.png
+024-026,60,executed,修订2·合并生成·英文竖排企画,024-026.txt,2609232525,op_6aebec81f51dfac92a89.png | op_b9fb073a60815ad1d2c9.png
+027,27,executed,修订2·官方格式,027.txt,2609232727,
+028-029,69,executed,修订2·合并生成·官方格式,028-029.txt,2609232828,op_8131393aa8831dedf6f6.png
+030,6,copy,A · 当前样片,,,
+031,27,executed,修订2·官方格式,031.txt,2609233131,op_89f7c870fd9a9946bacd.png | op_8fcdf525a4bdfb24d25c.png | op_8131393aa8831dedf6f6.png
+032-033,42,executed,修订3·远景男生也换成女生,032-033.txt,2609233232,op_8fcdf525a4bdfb24d25c.png | op_8131393aa8831dedf6f6.png | op_89f7c870fd9a9946bacd.png | op_e5564ea2b3bcaa0c29be.png | op_b9fb073a60815ad1d2c9.png | op_6aebec81f51dfac92a89.png
+034,48,executed,修订2·官方格式,034.txt,2609233434,op_448ab6bfc1d2bd32f0a0.png | op_cfa9e0c1cd796e0a8ec6.png
+035,48,executed,修订3·补上朝雲和綾野,035.txt,2609233535,op_b2ba2227c365daa2203c.png | op_e115fab4f5bd5d2ba01c.png | op_cfa9e0c1cd796e0a8ec6.png | op_448ab6bfc1d2bd32f0a0.png
+036_037,18,executed,修订2·官方格式,036_037.txt,2609233636,op_7678e761ab2a8240ba58.png
+038,24,executed,修订2·官方格式,038.txt,2609233838,
+039,48,executed,修订2·官方格式,039.txt,2609233939,op_fb181bb1a9fcf9e659bb.png
+040,48,executed,修订2·官方格式,040.txt,2609234040,op_fb181bb1a9fcf9e659bb.png | op_da26d83b68e2efc8f915.png
+041_043,89,executed,修订6·图生动画（答案图首帧）+后期溶解,041_043.txt,2609234141 / 2609234142,wide 首帧 op_c30ac1cdd6a8b68d38a2.png | close 首帧 op_e04b2ae6f9319aaf65b3.png
+044,21,copy,A · 当前样片,,,
+045,27,executed,修订2·官方格式,045.txt,2609234545,op_e5564ea2b3bcaa0c29be.png
+046,30,executed,修订2·官方格式,046.txt,2609234646,op_e5564ea2b3bcaa0c29be.png
+047,6,executed,修订2·官方格式,047.txt,2609234747,op_6aebec81f51dfac92a89.png
+048,15,executed,修订2·官方格式,048.txt,2609234848,op_6aebec81f51dfac92a89.png
+049-051,90,executed,修订2·合并生成·官方格式,049-051.txt,2609234949,op_6aebec81f51dfac92a89.png | op_b9fb073a60815ad1d2c9.png | op_8131393aa8831dedf6f6.png
+052,78,executed,修订2·官方格式,052.txt,2609235252,op_b9fb073a60815ad1d2c9.png | op_8131393aa8831dedf6f6.png | op_6aebec81f51dfac92a89.png
+053,12,executed,A · 当前样片,053.txt,2609235353,op_6aebec81f51dfac92a89.png | op_b9fb073a60815ad1d2c9.png | op_8131393aa8831dedf6f6.png
+054,27,executed,修订2·官方格式,054.txt,2609235454,op_6aebec81f51dfac92a89.png
+055,27,executed,修订2·官方格式,055.txt,2609235555,op_b9fb073a60815ad1d2c9.png
+056,30,executed,修订2·官方格式,056.txt,2609235656,op_8131393aa8831dedf6f6.png
+057,15,copy,A · 当前样片,,,
+058,39,executed,修订2·官方格式,058.txt,2609235858,op_b9fb073a60815ad1d2c9.png | op_6aebec81f51dfac92a89.png | op_8131393aa8831dedf6f6.png | op_e5564ea2b3bcaa0c29be.png
+059,54,executed,修订2·官方格式,059.txt,2609235959,op_b9fb073a60815ad1d2c9.png | op_6aebec81f51dfac92a89.png | op_8131393aa8831dedf6f6.png
+060,24,executed,修订2·官方格式,060.txt,2609236060,op_8ac89cdf331e65c9d6ae.png
+061,24,executed,修订3·对比说明+快速拉远,061.txt,2609236161,op_b2ba2227c365daa2203c.png | op_e115fab4f5bd5d2ba01c.png
+062,24,executed,修订2·官方格式,062.txt,2609236262,op_448ab6bfc1d2bd32f0a0.png | op_cfa9e0c1cd796e0a8ec6.png
+063,24,executed,修订3·对比说明+快速拉远,063.txt,2609236363,op_24b6847bfa30b0b95b53.png | op_5c92be4c6ea540e7072e.png | op_0176235df456f8ed1331.png
+064,24,executed,修订2·官方格式,064.txt,2609236464,op_89f7c870fd9a9946bacd.png | op_8fcdf525a4bdfb24d25c.png
+065,24,executed,修订3·对比说明+快速拉远,065.txt,2609236565,op_da26d83b68e2efc8f915.png | op_fb181bb1a9fcf9e659bb.png
+066,24,executed,修订2·官方格式,066.txt,2609236666,op_1290cd9f1d324322b11e.png | op_7678e761ab2a8240ba58.png
+067,6,executed,修订2·官方格式,067.txt,2609236767,op_6aebec81f51dfac92a89.png
+068,6,executed,A · 当前样片,068.txt,2609236868,op_6aebec81f51dfac92a89.png | op_b9fb073a60815ad1d2c9.png
+069,6,executed,修订2·官方格式,069.txt,2609236969,op_8131393aa8831dedf6f6.png | op_6aebec81f51dfac92a89.png | op_b9fb073a60815ad1d2c9.png
+070,6,executed,A · 当前样片,070.txt,2609237070,op_6aebec81f51dfac92a89.png
+071,42,copy,A · 当前样片,,,
+072,24,executed,修订2·官方格式,072.txt,2609237272,op_8131393aa8831dedf6f6.png
+073,24,executed,修订2·官方格式,073.txt,2609237373,op_b9fb073a60815ad1d2c9.png
+074,24,executed,修订2·官方格式,074.txt,2609237474,op_6aebec81f51dfac92a89.png
+075,66,executed,修订2·官方格式,075.txt,2609237575,
+076-077,43,executed,修订2·合并生成·官方格式,076-077.txt,2609237676,op_6aebec81f51dfac92a89.png
+078,5,original_copy,原片直用,,,
+079,54,executed,首版·官方格式,079.txt,2609237979,op_b9fb073a60815ad1d2c9.png
+080,50,executed,首版·官方格式,080.txt,2609238080,op_8131393aa8831dedf6f6.png
+081,7,builtin_imagegen,生图·AI校园版道具,081.txt,,原片字卡参考
+082,7,builtin_imagegen,生图·AI校园版道具,082.txt,,原片字卡参考
+083,7,builtin_imagegen,生图·AI校园版道具,083.txt,,原片字卡参考
+084,89,executed,首版·官方格式,084.txt,2609238484,
+085,24,original_copy,原片直用,,,

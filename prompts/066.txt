@@ -1,0 +1,24 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single anime shot that starts on a close-up of a schoolgirl with a short bob and pulls back to a wide view of her and a smaller long-haired girl walking along a shop-lined street, with a large studio credit at the top.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with shoulder-length wavy forest-green hair with one cream streak, a small cream hair clip, hazel eyes, a round badge and a white short-sleeved school shirt with peach, cream and green bows, and whose position, pose and motion come from the taller girl with the short olive-brown bob and straight bangs on the left of the pair in <Video 1>, who fills the opening close-up.
+<Subject 2> is the girl whose appearance comes from <Picture 2>, with short wavy peach-orange hair, a coral wave hair clip, a coral sound-wave badge and a white short-sleeved school shirt with coral bows, and whose position, pose and motion come from the smaller girl with long dark hair leaning close on the right of the pair in <Video 1>.
+<Subject 3> is the studio credit in <Video 1>: a large horizontal studio name across the top left in bold rounded dark-navy letters with thick white outlines, one character in yellow and small green and cyan accent strokes, with the small vertical label "アニメーション制作" along the right edge.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the taller short-haired girl on the left, including the opening close-up, and <Subject 2> takes the place of the smaller long dark-haired girl on the right. In <Subject 3>, the label "アニメーション制作" stays and the large studio name now reads "AI School Studio". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the shop-lined street with red awnings, shop windows, the vending machine, the small box in front of the shop, the trees in the distance, the continuous pull-back from the close-up, the credit swing-in and the timing are kept; only the two girls and the studio name change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the wavy forest-green hair with a cream streak, cream clip, hazel eyes, round badge and peach, cream and green bows from <Picture 1> are retained on the taller girl on the left.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the short peach-orange hair, coral wave clip, sound-wave badge and coral bows from <Picture 2> are retained on the smaller girl on the right.
+<Subject 3> (appears in [Shot 1]): partially_preserved - the large horizontal name across the top left, the label "アニメーション制作", the bold rounded dark-navy letters, white outlines, the one yellow character, the accent strokes and the swing-in timing are kept; the studio name changes from "A-1 Pictures" to "AI School Studio".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, the shot opens on a tilted close-up of <Subject 1>'s face, looking sideways with a calm expression, and the camera starts pulling back right away, as the girl does in <Video 1>. At 00:00.292 the camera pulls back fast with motion blur, <Subject 2> comes into view at her side, and the shot settles on a static wide view of a sunny shop-lined street with red awnings, dark shop windows, a vending machine, a small box in front of the shop and green trees in the distance. <Subject 1> and <Subject 2> walk side by side at the lower right of center, each holding a school bag, small in the distance, as small as the two girls in <Video 1>: <Subject 1> on the left, taller, looking to the side, and <Subject 2> on the right, shorter, leaning close to her shoulder. At 00:00.583 <Subject 3> swings in and then holds: the large horizontal name "AI School Studio" runs across the top left in bold rounded dark-navy letters with thick white outlines and small green and cyan accents, with the "I" of "AI" in yellow, and the small vertical label "アニメーション制作" runs down the right edge. The studio name reads "AI School Studio" from the moment it appears. Apart from the small shop signs, this credit is the only text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

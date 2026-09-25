@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed anime medium shot of a girl standing by the tall windows of a school corridor, holding a phone, framed by fast whip-pans in and out.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long blue-violet hair fading to pink at the tips, purple cat ears, small hair buns with a star clip, one pink eye and one gold eye, a fluffy purple tail and a white short-sleeved school shirt with red, yellow and green bows, and whose position, pose and motion come from the tanned short-haired girl in the center of <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the tanned short-haired girl who stands by the corridor windows with a hand at her ear and a phone in her other hand. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the black letterbox bars at the top and bottom, the corridor with tall dark-framed windows, the sunlit window on the right with a diagonal beam of light, the white shoulder bag, the phone, the camera, the whip-pan motion blur at the start and end, and the timing are kept; only the girl changes.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the blue-violet hair with pink tips, cat ears, hair buns with a star clip, pink and gold eyes, purple tail and red, yellow and green bows from <Picture 1> are retained.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a letterboxed medium shot with black bars at the top and bottom, inside a shaded school corridor with tall dark-framed windows on the left and a sunlit window on the right crossed by a diagonal beam of light. The shot opens at the end of a fast whip-pan with heavy motion blur, which settles on <Subject 1> standing in the center of the frame with a white bag on her shoulder. She holds one hand up at the side of her head near her ear and a phone in her other hand, tilts her head, blinks, glances at the phone and then talks with a surprised, flustered look, as the tanned girl does in <Video 1>. Her long blue-violet hair and cat ears move with her head. Near the end the camera whips sideways again, and the corridor and <Subject 1> smear into horizontal motion blur, following <Video 1>.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

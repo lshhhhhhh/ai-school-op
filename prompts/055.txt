@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed low-angle anime close-up of an athletic schoolgirl running toward the left against a stylized blue sky with flat white clouds.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long blue-violet hair fading to pink at the tips, purple cat ears, small hair buns with a star clip, one pink eye and one gold eye, a fluffy purple tail and a white short-sleeved school shirt with red, yellow and green bows, and whose position, pose and motion come from the tanned short-haired girl running toward the left in <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the tanned short-haired girl who runs toward the left. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the black letterbox bars, the bright blue sky with flat white and pale-cyan clouds on both sides, the faint rainbow arc and lens flare, the low camera angle, the upward tilt and the timing are kept; only the running girl changes.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the blue-violet hair with pink tips, cat ears, star clip, pink and gold eyes, purple tail and red, yellow and green bows from <Picture 1> are retained on the running girl.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a letterboxed low-angle close-up with black bars at the top and bottom. The camera starts on the runner's grey-blue pleated skirt and legs and tilts up to her upper body, against a bright blue sky with flat white and pale-cyan clouds at both sides, a faint rainbow arc and a soft lens flare. <Subject 1> runs toward the left with her body and face turned three-quarters to the lower left, her arms swinging and her mouth wide open as she shouts, her long hair trailing behind her, as the tanned girl does in <Video 1>. The background is only this sky and its clouds, with no building, sign, umbrella or other person in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

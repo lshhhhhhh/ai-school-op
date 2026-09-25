@@ -1,0 +1,22 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed wide anime shot of a zoo entrance plaza with two large art-credit captions.
+<Subject 1> is the upper credit caption on the right of <Video 1>: a small label "美術監督" above one large horizontal name in bold dark-navy letters with thick white outlines and short colored accent strokes.
+<Subject 2> is the lower credit caption on the lower left of <Video 1>: a larger label "美術" followed by one large horizontal name in the same bold dark-navy letters with thick white outlines and short colored accent strokes.
+
+summary:
+[video editing] The target video is an edited version of <Video 1>. In <Subject 1>, the label "美術監督" stays and the large name now reads "Alec Radford". In <Subject 2>, the label "美術" stays and the large name now reads "Aditya Ramesh". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the letterbox bars, the zoo entrance building with stone walls and an orange tiled roof, the yellow map board, the potted flowers, every person in the plaza, the static camera and the timing are kept; only the two credit names change.
+<Subject 1> (appears in [Shot 1]): partially_preserved - the position, the label "美術監督", the bold letter style, the dark-navy color, the white outlines and the colored accent strokes are kept; the name changes from "畠山佑貴" to "Alec Radford".
+<Subject 2> (appears in [Shot 1]): partially_preserved - the position, the label "美術", the bold letter style, the dark-navy color, the white outlines and the colored accent strokes are kept; the name changes from "草薙" to "Aditya Ramesh".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static letterboxed wide shot with black bars at the top and bottom, looking across a brick-paved plaza at a zoo entrance with stone walls, an orange tiled roof and a green entrance sign, with a large yellow map board showing a green map on the left, potted flowers along the wall, and a wooden post and green bushes in the lower right foreground. All the people in the plaza are small ordinary visitors and a staff member, and they stay exactly as they are in <Video 1>. In the upper right, <Subject 1> shows the small label "美術監督" above the large horizontal name "Alec Radford". In the lower left, <Subject 2> shows the larger label "美術" followed by the large horizontal name "Aditya Ramesh". Both names are written in bold dark-navy letters with thick white outlines and short colored accent strokes, in the same places as the names in <Video 1>. Apart from the zoo entrance sign and the small marks on the map board, these two captions are the only text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

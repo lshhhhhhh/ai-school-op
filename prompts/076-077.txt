@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single continuous letterboxed anime shot on a quiet residential street in which a girl seen from directly behind turns around and waves toward the camera.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long wavy dark-blue hair, an ahoge, a blue hairband, blue eyes, small white-tipped whale-fin ears, a blue whale tail and a white short-sleeved school shirt with small blue bows, and whose position, pose and motion come from the teal-haired girl in the center of <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the teal-haired girl who is first seen from directly behind and then turns around, smiles and waves toward the camera. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the black letterbox bars at the top and bottom, the blurred street background with the metal gate, brick pillars, trees and pale fence, the static camera, the framing, the bag strap and the timing are kept; only the girl changes.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the long wavy dark-blue hair, ahoge, blue hairband, blue eyes, whale-fin ears and blue bows from <Picture 1> are retained from the back view through the whole turn and wave.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a single continuous letterboxed shot with black bars at the top and bottom that stay in place for the whole shot, on a quiet residential street with a blurred metal gate, brick pillars, green trees and a pale fence in the background. At first the back of <Subject 1>'s dark-blue hair fills the whole frame up close; then she moves back from the camera, and the back of her head and her shoulders in the white shirt with a bag strap appear in the center of the frame, with her long wavy hair falling past her shoulders and the tips of her whale-fin ears peeking out, as the girl does in <Video 1>. She then turns all the way around to face the camera with her hair swinging, sweeps one arm across and waves it energetically toward the camera several times while her other hand holds her bag strap, first smiling with her mouth open and then laughing with her eyes closed, as the girl does in <Video 1>. She stays at the same size and place in the frame as the girl in <Video 1>, and her hair and whale-fin ears move with the turn.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

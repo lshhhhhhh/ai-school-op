@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single high-angle anime shot looking down on a pink streetcar driving along curved tracks, with a diagonal credit caption on the left.
+<Subject 1> is the diagonal series-composition credit on the left of <Video 1>: a small label "シリーズ構成" in navy letters with small colored accent marks, above a large name in bold rounded letters with white outlines, mostly dark navy with some letters in magenta and green, whose last letter sits inside a yellow circle; the whole credit runs diagonally up to the right.
+
+summary:
+[video editing] The target video is an edited version of <Video 1>. In <Subject 1>, the label "シリーズ構成" stays and the large name now reads "Yann LeCun", with its last letter "n" inside the yellow circle. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the pink streetcar and its motion, the curved tracks, the overhead wires, the floating geometric shapes, the high camera angle and the timing are kept; only the large credit name changes.
+<Subject 1> (appears in [Shot 1]): partially_preserved - the diagonal layout, the label "シリーズ構成", the bold rounded letter style, the navy, magenta and green colors, the white outlines, the yellow circle around the last letter and the slow diagonal slide are kept; the large name changes from "横谷昌宏" to "Yann LeCun".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static high-angle shot looks down on a stylized street with teal and lavender road surfaces, curved streetcar tracks sweeping across the frame, overhead wires with a red cable crossing the whole frame, a pale semicircle at the upper left and flat geometric shapes floating over it: a tall white triangle outline, orange, cyan and yellow triangles and a small white square outline. On the right, a pink streetcar with the number "3502" on its front drives down the frame along the tracks, coming from the top edge toward the middle, as in <Video 1>. No people appear anywhere in this shot. On the left, <Subject 1> runs diagonally up to the right: the small label "シリーズ構成" sits above the large name "Yann LeCun", written in bold rounded letters with white outlines in dark navy with magenta and green accents, with the final "n" inside the yellow circle; the credit slowly slides up and to the right along its diagonal, following <Video 1>. Apart from the markings on the streetcar, this credit is the only text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

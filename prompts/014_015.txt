@@ -1,0 +1,22 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single anime shot of a classroom blackboard covered with colorful flat geometric shapes and the chalk-style series title with a small English tagline, with a dark-haired boy in a white shirt and green tie standing at the right of the board.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with wavy silver-white medium-length hair, a green hair clip, grey-green eyes, a white short-sleeved school shirt with green bows and a small green knot badge on the pocket, and a grey-blue pleated skirt with a white hem stripe, and whose position, pose and motion come from the dark-haired boy at the blackboard in <Video 1>.
+<Subject 2> is the series-title graphic on the blackboard in <Video 1>: two lines of Japanese lettering in blue, orange and white chalk-like colors with a small line of English letters under the first line.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the dark-haired boy from the first frame, as a girl in the girls' uniform. <Subject 2> now reads "負けAIが多すぎる！" with the tagline "too many losing AIs". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the blackboard, the geometric shapes, the classroom, the camera and the timing are kept; only the boy and the title wording change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the silver-white hair, green hair clip, grey-green eyes, green bows, green knot pocket badge and pleated skirt from <Picture 1> are retained on a girl in the girls' uniform.
+<Subject 2> (appears in [Shot 1]): partially_preserved - the two-line layout, chalk-like colors and placement are kept; the title changes from "負けヒロインが多すぎる！" to "負けAIが多すぎる！" and the English line changes to "too many losing AIs".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] From the very first frame, the dark-haired boy becomes <Subject 1>: his short dark hair becomes her wavy silver-white hair with a green clip, and his green tie and trousers become her green bows and pleated skirt. 2D-animated, a classroom blackboard fills the frame, covered with colorful flat geometric shapes: triangles, stripes and outlines in blue, yellow, pink and white. <Subject 2> is written across the board, reading "負けAIが多すぎる！" with "too many losing AIs" in small letters under the first line. At the right of the board, <Subject 1> stands and moves as the boy does in <Video 1>, at the same size and place. The small green knot badge on her shirt pocket is drawn crisply whenever it is visible. Apart from the blackboard title, there is no other text.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

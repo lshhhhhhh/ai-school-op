@@ -1,0 +1,24 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single static letterboxed wide anime shot of a green-lit club room with tall windows and bookshelves, with two vertical staff-credit blocks on the left and right.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with wavy silver-white medium-length hair, a green hair clip, grey-green eyes, a white short-sleeved school shirt with green bows and a grey-blue pleated skirt with a white hem stripe, and whose position, pose and motion come from the dark-haired boy seated alone at the long table on the left of <Video 1>.
+<Subject 2> is the vertical credit block on the right of <Video 1>: a small vertical label "撮影監督" at the far right, one tall vertical name column to its left, and a thinner sideways affiliation column in parentheses to the left of the name, in bold dark-teal letters with thick pale glowing outlines and small colored accent strokes.
+<Subject 3> is the vertical credit block on the left of <Video 1>: a small vertical label "編集" with one tall vertical name column to its left, in the same bold dark-teal letters with thick pale glowing outlines and small colored accent strokes.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the boy seated at the table. In <Subject 2>, the label "撮影監督" stays, the name column now reads "Tim Brooks" and the affiliation column now reads "(Google DeepMind)". In <Subject 3>, the label "編集" stays and the name column now reads "tibo". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the club room with tall green-framed windows, trees outside, the wall fan, the posters, the bookshelves, the long table, the fading sparkles, the green lighting, the letterbox bars, the static camera and the timing are kept; only the seated boy and the two credit names change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the silver-white hair, green hair clip, green bows and pleated skirt from <Picture 1> are retained on the girl seated at the table, who stays at the same size as the boy in <Video 1>.
+<Subject 2> (appears in [Shot 1]): partially_preserved - the vertical layout, the label "撮影監督", the sideways affiliation column, the letter style, colors, glowing outlines and accent strokes are kept; the name changes from "宮脇洋平" to "Tim Brooks" and the affiliation from "(A-1 Pictures)" to "(Google DeepMind)".
+<Subject 3> (appears in [Shot 1]): partially_preserved - the vertical layout, the label "編集", the letter style, colors, glowing outlines and accent strokes are kept; the name changes from "廣瀬清志" to "tibo".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static letterboxed wide shot of a quiet club room in soft green light, with tall green-framed windows and leafy trees outside, a wall exhaust fan at the upper left, posters on the left wall, tall bookshelves and a wooden ladder on the right, and a long wooden table with stacked books across the middle. <Subject 1> sits alone at the left end of the table, seen from behind and the side, facing right toward the windows, as the boy does in <Video 1>, while a few small green sparkles and a faint pink glow drift and fade in the air near her and the window. On the right, <Subject 2> shows the small vertical label "撮影監督" at the far right, the tall vertical name "Tim Brooks" to its left, and the sideways "(Google DeepMind)" column to the left of the name. On the left, <Subject 3> shows the small vertical label "編集" with the tall vertical name "tibo" to its left. Each English name is set sideways, rotated 90 degrees clockwise so it reads from top to bottom inside its column, in the bold dark-teal letters with thick pale glowing outlines and small colored accent strokes of <Video 1>, at the same places and sizes as the original names. Apart from the small book spines and posters, these two credit blocks are the only text in the frame, and there is no one else in the room.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

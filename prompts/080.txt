@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed anime medium shot of a shy girl standing outdoors beside a school notice board, which opens at the end of a whip-pan.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long bright copper-orange hair, an orange flower hair ornament with a black ribbon, amber eyes and a white short-sleeved school shirt with orange-red bows, and whose position, pose and motion come from the small red-haired girl in the center of <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the small red-haired girl who reaches toward the notice board and then turns shyly toward the camera. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the black letterbox bars at the top and bottom, the green notice board with its posted sheets and small vertical label, the green poles and railing, the sky and fence behind, the camera, the whip-pan blur at the start and the timing are kept; only the girl changes.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the long copper-orange hair, flower ornament with a black ribbon, amber eyes and orange-red bows from <Picture 1> are retained.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a letterboxed medium shot with black bars at the top and bottom, outdoors at school beside a tall green notice board covered with posted sheets, with green poles, a railing, trees, a pale fence and a blue sky with clouds behind. The shot opens at the end of a fast whip-pan with horizontal motion blur, which settles on <Subject 1> standing in the center of the frame in profile, reaching one hand toward the notice board, as the red-haired girl does in <Video 1>. She then turns her head toward the camera with her bangs half covering her eyes and a shy, embarrassed look, draws her hands in toward her chest, fidgets with her fingers and briefly closes her eyes, as the red-haired girl does in <Video 1>. Her long copper-orange hair moves with her head. Apart from the small print on the notice board, there is no text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

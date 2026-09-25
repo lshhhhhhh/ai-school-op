@@ -1,0 +1,24 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed anime shot of a crowd in a colorful mall atrium looking up at a large video screen that shows a prop-design credit.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with a short angular orange bob with a dark underlayer and a red forelock, amber eyes, a small pixel "M" hair clip, a white short-sleeved school shirt with warm orange and red bows and a grey-blue pleated skirt with a white hem stripe, and whose position, pose and motion come from the light-brown-haired boy with an earphone in the right foreground of <Video 1>.
+<Subject 2> is the girl whose appearance comes from <Picture 2>, with long wavy blue-violet hair with a side braid, violet eyes, a compact violet knot clip and a white short-sleeved school shirt with purple bows, and whose position, pose and motion come from the green-bob-haired girl seen from behind in the crowd of <Video 1>.
+<Subject 3> is the credit shown on the large video screen in <Video 1>: a small label "プロップデザイン" in thin multicolored letters above one large horizontal name in bold dark-navy letters with colored accent strokes, set over a flashing starburst background.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the light-brown-haired boy in the right foreground, and <Subject 2> takes the place of the green-bob-haired girl seen from behind. In <Subject 3>, the label "プロップデザイン" stays and the large name now reads "Andrej Karpathy". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the mall atrium, the balconies, the large video screen with its color-changing starburst, the floating geometric shapes, the other people in the crowd, the black letterbox bars, the static camera and the timing are kept; only the two students and the credit name change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the short orange bob with a dark underlayer and red forelock, amber eyes, pixel "M" clip, orange-red bows and pleated skirt from <Picture 1> are retained on the girl in the right foreground, who is a girl in the girls' uniform.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the blue-violet hair with a side braid, violet knot clip and purple bows from <Picture 2> are retained on the girl seen from behind in the crowd.
+<Subject 3> (appears in [Shot 1]): partially_preserved - the label "プロップデザイン", the horizontal layout, the size and position on the screen, the bold letter style, colors, accent strokes and the flashing starburst background are kept; the name changes from "木藤貴之" to "Andrej Karpathy".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static low-angle shot inside a busy mall atrium with pink and orange walls, balconies, a small pink shop sign, a large video screen on the right, and flat geometric shapes floating over the frame: yellow and blue triangles, white paper-plane shapes and white striped triangles. People in the crowd stand along the bottom of the frame, looking up at the screen. In the right foreground, <Subject 1> is seen close up from the shoulders up in profile, looking to the right with an earphone in her ear, and then moves out of the frame to the right, as the boy does in <Video 1>. Behind her, <Subject 2> is seen from behind, only the back of her head and shoulders in view, looking up at the screen and moving to the left of the crowd, as the green-bob-haired girl does in <Video 1>. Near the end, a dark-haired passer-by girl with a small bun rises into the lower-left corner in front of <Subject 2> and stays as drawn in <Video 1>. The screen first shows only a flashing starburst that changes color; once it turns blue, <Subject 3> appears on it, with the small label "プロップデザイン" above the large name "Andrej Karpathy" on one horizontal line, in bold dark-navy letters with colored accent strokes, while the starburst behind it keeps changing color, following the timing of <Video 1>. Apart from the small pink shop sign on the balcony, the label and the one name on the screen are the only text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

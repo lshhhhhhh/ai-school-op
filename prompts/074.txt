@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed low-angle anime shot at sunset, looking up past a girl's head at dark steel lattice structures against golden clouds.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long wavy dark-blue hair falling well past her shoulders, an ahoge, a blue hairband, small whale-fin ears and a white short-sleeved school shirt with small blue bows, and whose position, pose and motion come from the short-haired girl seen from behind at the bottom center of <Video 1>, of whom only the head and shoulders are visible.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the short-haired girl seen from behind at the bottom of the frame, looking up at the sunset sky. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the black letterbox bars, the low camera angle, the dark steel lattice structures with glowing orange lights, the mesh-covered triangular frame, the boxy machine housing, the purple-blue sunset sky, the golden clouds, the floating red "恋", the static camera and the timing are kept; only the girl changes.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the long wavy dark-blue hair, ahoge, blue hairband, whale-fin ears and blue bows from <Picture 1> are retained on the girl seen from behind.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a static low-angle shot framed with black letterbox bars at the top and bottom, looking up at a sunset sky that fades from deep blue to pink and purple, with glowing golden clouds; a large curved steel truss with small orange lights fills the upper left, a tilted mesh-covered triangular steel frame fills the upper right, and a boxy machine housing and a tall wall stand along the lower edge. At the bottom center, <Subject 1> is seen from behind, with only her head and shoulders in the frame, as large as the girl in <Video 1>; she looks up at the sky while the wind lifts her long dark-blue hair, and near the end she turns her head slightly to the right, as the girl does in <Video 1>. Her long hair, blue hairband and whale-fin ears are clearly visible from behind. A small red hand-drawn "恋" with a thin white outline floats near the clouds at the top center, as in <Video 1>.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

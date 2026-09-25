@@ -1,0 +1,24 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single high-angle anime shot inside a cluttered staff room with a spinning 3D-director credit.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with a brown bob with two small hair buns, brown eyes and a white short-sleeved school shirt with blue-and-cream bows, and whose position, pose and motion come from the brown-haired woman in a purple top slumped asleep in the chair in the middle of <Video 1>, with the same grey-blue sleep mask over her eyes.
+<Subject 2> is the girl whose appearance comes from <Picture 2>, with a long turquoise high ponytail, blue-green eyes, a small loop hair clip and a white short-sleeved school shirt with blue-green and coral bows, and whose position, pose and motion come from the tall woman with long pale-green hair in the right foreground of <Video 1>.
+<Subject 3> is the credit caption in the upper left of <Video 1>: a small label "3D監督" above one large horizontal name, in rounded dark-navy letters with white outlines and small colored accent strokes, which spins around like a flat card.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the woman asleep in the chair and <Subject 2> takes the place of the long-haired woman in the right foreground. In <Subject 3>, the label "3D監督" stays and the large name now reads "Ben Mildenhall". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the staff room with desks, chairs, stacked files, the wooden floor and blue-green shelves, the high camera angle, the letterbox bars, the caption spins and the timing are kept; only the two women and the credit name change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the brown bob with two small buns and the blue-and-cream bows from <Picture 1> are retained on the girl asleep in the chair, who keeps the sleep mask and the open-mouthed sleeping pose.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the turquoise high ponytail, blue-green eyes, loop clip and blue-green and coral bows from <Picture 2> are retained on the girl in the right foreground.
+<Subject 3> (appears in [Shot 1]): partially_preserved - the position, the label "3D監督", the rounded letter style, dark-navy color, white outlines, colored accent strokes and both card spins are kept; the name changes from "栗林裕紀" to "Ben Mildenhall".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a letterboxed high-angle shot looking down into a cluttered staff room, with desks and chairs, stacks of files and papers, a wooden floor and blue-green shelves and walls in cool light. In the middle, <Subject 1> sits slumped back in a desk chair, head tipped back, asleep with the grey-blue sleep mask over her eyes and her mouth wide open, as the woman in the chair does in <Video 1>. In the right foreground, large in the frame, <Subject 2> first stands with her back to the camera looking at <Subject 1>, then turns her head to smile at the camera and reaches one hand toward the lens before pulling it back, as the long-haired woman does in <Video 1>. In the upper left, above <Subject 1>, <Subject 3> shows the small label "3D監督" above the large horizontal name "Ben Mildenhall", in rounded dark-navy letters with white outlines and small colored accent strokes, at the same place and size as in <Video 1>. The caption spins one full turn around its vertical axis like a flat card at the start of the shot and spins once more near the end, showing its mirrored back side mid-turn, and reads normally between the spins, following the timing of <Video 1>.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

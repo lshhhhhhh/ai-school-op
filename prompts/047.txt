@@ -1,0 +1,20 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single letterboxed anime extreme close-up of a blue-haired girl's hair from behind that ends on her eye in profile.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long wavy dark indigo-blue hair, an ahoge, a blue hairband, blue eyes, small whale-fin ears, a blue whale tail and a white short-sleeved school shirt with small blue bows, and whose position, pose and motion come from the blue-haired girl whose hair and face fill the frame in <Video 1>.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the blue-haired girl in the same extreme close-up: her dark indigo-blue hair first fills the frame from behind, then she turns her head and one blue eye appears in profile at the left. Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the extreme close-up framing, the black letterbox bars at the top and bottom, the pale beige background with brown mottled patches, the head turn and the timing are kept; only the girl's hair and look change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the dark indigo-blue hair, blue eyes and blue hairband from <Picture 1> are retained where visible on the girl in the extreme close-up, who stays as large in the frame as the girl in <Video 1>.
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a letterboxed extreme close-up with black bars at the top and bottom, against a pale beige background with soft brown mottled patches. At first the back of <Subject 1>'s head fills most of the frame: a large smooth mass of dark indigo-blue hair drawn with a few thin strand lines and a bright cyan rim of light along its right edge, with the beige background visible on the right. The hair slides slightly across the frame, then <Subject 1> turns her head and her face comes into view at the left edge in profile, showing one large blue eye under her bangs and a small smile, while her hair fills the rest of the frame, as the blue-haired girl does in <Video 1>. The camera stays in this extreme close-up for the whole shot, and the girl is the only person in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

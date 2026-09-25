@@ -1,0 +1,22 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single top-down anime shot over a wooden floor where a crying girl lying on her back slides through the frame and two art credits lie diagonally on the floor.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with a brown bob with two small hair buns, brown eyes and a white short-sleeved school shirt with blue-and-cream bows, and whose position, pose and motion come from the crying brown-haired woman in a purple T-shirt lying on her back in <Video 1>.
+<Subject 2> is the art-credit caption lying diagonally on the floor in <Video 1>, tilted down toward the right in perspective: a small label "美術設定" above a large name followed by a smaller affiliation in parentheses, then below it a small label "美術ボード協力" above a second large name. All letters are dark teal-navy with white outlines, a soft grey drop shadow and small colored accent strokes.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the crying brown-haired woman lying on the floor. In <Subject 2>, the labels "美術設定" and "美術ボード協力" stay, the small affiliation now reads "(Midjourney)"; the large name under "美術設定" now reads "David Holz" and the large name under "美術ボード協力" now reads "Patrick Esser". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the wooden floorboards, the top-down camera, the way the view slides across the floor, the empty-floor hold in the middle, the letterbox bars and the timing are kept; only the crying woman and the two credit names change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the brown bob with two small buns, brown eyes and blue-and-cream bows from <Picture 1> are retained on the crying girl lying on the floor.
+<Subject 2> (appears in [Shot 1]): partially_preserved - the diagonal perspective layout on the floor, the two labels, the small affiliation, the letter style, colors, white outlines, drop shadow and accent strokes are kept; the first name changes from "平義樹弥" to "David Holz" and the second name changes from "滕 翀" to "Patrick Esser", and the affiliation changes from "(A-1Pictures)" to "(Midjourney)".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+[Shot 1] 2D-animated, a letterboxed top-down view of light wooden floorboards running diagonally across the frame. At the start, <Subject 1> lies on her back in the lower left, large in the frame, crying with tears in her eyes and her mouth wide open, as the woman does in <Video 1>; she slides out of the frame to the left while the floor and <Subject 2> drift in from the right and settle. The empty floor with <Subject 2> then holds. Near the end, <Subject 1> slides back in from the lower right, still crying, crosses the frame and slides out at the left, leaving only the empty floor, following the timing of <Video 1>. <Subject 2> lies flat on the floor, tilted down toward the right: the small label "美術設定" sits above the large horizontal name "David Holz", followed by the smaller "(Midjourney)"; below and to the right, the small label "美術ボード協力" sits above the large horizontal name "Patrick Esser". Both names are written in dark teal-navy letters with white outlines, a soft grey drop shadow and small colored accent strokes, in the same places as the names in <Video 1>. This caption is the only text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A

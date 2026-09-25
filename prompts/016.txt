@@ -1,0 +1,25 @@
+subject_definitions:
+<Video 1> is the complete original transition: an outgoing tilted classroom/blackboard panel briefly containing the male protagonist, followed by the statue and foliage with animated title lettering. It supplies the entire composition, panel movement, color/monochrome changes and timing.
+<Picture 1> supplies only GPT's appearance: a human schoolgirl with silver-white medium-length hair, grey-green eyes, a green hairclip, white short-sleeve school blouse with green bows and a small green knot emblem, grey-blue pleated skirt, dark socks and brown loafers. Do not use its white background, standing pose or portrait framing.
+
+summary:
+[video editing + reference generation] Make exactly two edits to Video 1: replace the briefly visible male protagonist with GPT from Picture 1, and replace the existing series-title lettering. Preserve the original transition throughout the complete frame.
+
+detailed_description:
+At the beginning, the boy is briefly visible at the right edge of the departing blackboard/classroom panel. Replace only this boy with GPT, keeping his exact screen size, location, pose, motion and occlusion within that panel. Preserve the original performance and timing. GPT must disappear with that original figure as the panel exits; she does not remain over the statue scene or appear elsewhere.
+The outstretched bearded figure in front of foliage is a statue. Keep the original statue unchanged. Keep the classroom panel showing its existing blackboard, and retain its original perspective, motion and disappearance. Preserve the original switches between color and monochrome, background foliage, geometric graphics, black bars, camera and all existing transitions. Keep the same sequence of visible scene content; introduce no new panel, scene, character or prop.
+
+text_replacements:
+The Japanese title lettering itself is an editing target. Its OLD WORDING MUST CHANGE, even though its visual style and animation are retained.
+In EVERY existing title logo, change the actual Japanese characters from "負けヒロインが多すぎる！" to exactly "負けAIが多すぎる！". Specifically, REMOVE the four katakana characters ヒ・ロ・イ・ン and REPLACE that same portion of the logo with uppercase Latin "AI". Keep 負け, が, 多すぎる and the exclamation mark. Render the full revised title as one integrated existing logo, not a second caption.
+Apply this to all three original treatments: the multicolored title on the departing blackboard; the thin white vertical title during the monochrome statue portion; and the colored vertical title over the colored statue and foliage. No appearance may retain the old ヒロイン characters. The colored vertical statue logo must also visibly read 負けAIが多すぎる！. Transfer the original orientation, colors, outlines, placement, scale, layering and animation onto the NEW wording.
+Only where the original English tagline already exists, replace it with exactly "too many losing AIs". Add no English line elsewhere and no other text.
+
+retention_analysis:
+Change only the original boy's identity and the existing title contents. Retain every other source element and the entire source timing. Generate one full-frame video containing exactly the original transitions, with no reference-sheet insert or extra shot.
+
+overall_soundscape:
+None. The original soundtrack is restored after generation.
+
+non_diegetic_music:
+N/A

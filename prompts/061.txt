@@ -1,0 +1,25 @@
+subject_definitions:
+<Video 1> is the source video for the target video edit, a single anime shot that starts on a close-up of a couple on a shopping street and quickly pulls back to a wide view of the narrow street, with a vertical producer credit on the right.
+<Subject 1> is the girl whose appearance comes from <Picture 1>, with long straight black hair, a broad white forelock, grey eyes, a small X hair clip, a black round badge, a white short-sleeved school shirt with black and white bows and a grey-blue pleated skirt with a white hem stripe, and whose position, pose and motion come from the spiky brown-haired boy on the left of the couple in <Video 1>.
+<Subject 2> is the girl whose appearance comes from <Picture 2>, with very long wavy silvery-lavender hair, blue eyes, a crescent and prism hair accessory with a navy ribbon, a K badge and a white short-sleeved school shirt with navy and pale-blue bows, and whose position, pose and motion come from the long pink-haired girl on the right of the couple in <Video 1>.
+<Subject 3> is the vertical producer credit right of center in <Video 1>: one tall vertical name column in bold rounded dark-navy letters with thick white outlines and small cyan, pink, green and red accent strokes, with the small vertical label "プロデューサー" just to its right.
+
+summary:
+[video editing + reference generation] The target video is an edited version of <Video 1>. <Subject 1> takes the place of the spiky brown-haired boy on the left and <Subject 2> takes the place of the long pink-haired girl on the right, in the opening close-up and in the wide view. In <Subject 3>, the label "プロデューサー" stays and the single name column now reads "Elon Musk". Everything else follows <Video 1>.
+
+retention_analysis:
+<Video 1> (whole shot): partially_preserved - the opening close-up, the fast pull-back with motion blur, the narrow shopping street with its colorful shop fronts, hanging signs and clouds, the credit slide-in and the timing are kept; only the two people and the credit name change.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the black hair with the white forelock, X clip, grey eyes, black-and-white bows and the pleated skirt from <Picture 1> are retained on the left girl, who is a girl in the girls' uniform.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the long silvery-lavender hair, crescent and prism accessory, blue eyes and navy and pale-blue bows from <Picture 2> are retained on the right girl.
+<Subject 3> (appears in [Shot 1]): partially_preserved - the single vertical column, its position right of center, the label "プロデューサー", the bold rounded dark-navy letters, white outlines, colored accent strokes and slide-in timing are kept; the name changes from "井上めぐみ" to "Elon Musk".
+
+detailed_description:
+The target video keeps the 2D-animated television anime style of <Video 1>, with flat cel shading, two-tone shadows and clean dark linework.
+From the very first frame, the long pink-haired girl becomes <Subject 2>, with very long wavy silvery-lavender hair and the crescent and prism accessory, clearly the new girl even though the hair colors are close, and the spiky brown-haired boy becomes <Subject 1>, a girl with long straight black hair and a broad white forelock; both stay the same two girls in the close-up and in the wide view after the fast pull-back.
+[Shot 1] 2D-animated, the shot opens on a close-up on a shopping street: <Subject 2> fills the middle and right of the frame, smiling with her mouth open as she talks, while <Subject 1> stands close beside her at the left edge, first only partly in view and then with her face in frame, as the couple does in <Video 1>. At 00:00.292 the camera pulls back fast with motion blur, and the shot settles on a static wide view down a narrow shopping street with colorful shop fronts, awnings, hanging round signs, a no-parking sign on the left and white clouds in the distance. <Subject 1> and <Subject 2> stand side by side at the lower middle-left, small in the distance, as small as the couple in <Video 1>: <Subject 1> on the left with one hand on her hip, <Subject 2> on the right leaning toward her with a smile. At 00:00.500 <Subject 3> slides in and then holds right of center: one tall vertical column reads "Elon Musk" in bold rounded dark-navy letters with thick white outlines and small colored accent strokes, and the small label "プロデューサー" runs down just to its right. "Elon Musk" is set sideways, rotated 90 degrees clockwise so it reads from top to bottom inside its column. Apart from the small shop signs, this credit is the only text in the frame.
+
+overall_soundscape:
+N/A
+
+non_diegetic_music:
+N/A
