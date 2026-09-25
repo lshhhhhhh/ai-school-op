@@ -4,7 +4,7 @@
 
 - 同一个原作角色全片只对应一个 AI 娘
 - 认不出身份的路人、没有主要人物的镜头（例如 038）不换人
-- 人设图和生图提示词：[designs/](designs/)；机器可读的对应表在 [../data/full_plan.json](../data/full_plan.json) 的 `cast` 字段
+- 人设图全部由 GPT 生图生成，图片和提示词见 [designs/](designs/)。DeepSeek、Gemini、Claude、Kimi、MiniMax、Qwen 的基础形象参考了社区流行的 AI 娘设计（DeepSeek 娘由社区共同完成设计），GPT 和其余 11 位为原创；机器可读的对应表在 [../data/full_plan.json](../data/full_plan.json) 的 `cast` 字段
 - “出场镜头”按每个单元最终通过的版本实际使用的参考图统计
 
 ## 主要角色
